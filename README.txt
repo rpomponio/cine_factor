@@ -1,1 +1,1 @@
-Blanca will you marry me?
+Will I kill myself tonight? Y/N
