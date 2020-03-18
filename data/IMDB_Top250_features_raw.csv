@@ -1,251 +1,240 @@
 UID,aspect ratio,rating,title,votes,year,Budget,Cumulative Worldwide Gross,countries,directors,genres,genres,genres,runtimes,writers,writers,writers
-0111161,1.85 : 1,9.3,The Shawshank Redemption,2199969,1994,"$25,000,000 (estimated)","$58,500,000",United States,Frank Darabont,Drama,,,142,Stephen King,,Frank Darabont
-0068646,1.37 : 1 (negative ratio),9.2,The Godfather,1515783,1972,"$6,000,000 (estimated)","$245,066,411",United States,Francis Ford Coppola,Crime,Drama,,175,Mario Puzo,Francis Ford Coppola,
-0071562,1.37 : 1 (negative ratio),9.0,The Godfather: Part II,1061859,1974,"$13,000,000 (estimated)",,United States,Francis Ford Coppola,Crime,Drama,,202,Francis Ford Coppola,Mario Puzo,
-0468569,1.43 : 1 (70mm IMAX - some scenes),9.0,The Dark Knight,2181671,2008,"$185,000,000 (estimated)","$1,004,558,444, 19 Jul 2012",United States,Christopher Nolan,Action,Crime,Drama,152,Jonathan Nolan,Christopher Nolan,
-0050083,1.66 : 1,8.9,12 Angry Men,642237,1957,"$350,000 (estimated)",,United States,Sidney Lumet,Drama,,,96,Reginald Rose,,Reginald Rose
-0108052,1.33 : 1 (negative ratio),8.9,Schindler's List,1148113,1993,"$22,000,000 (estimated)","$221,000,000",United States,Steven Spielberg,Biography,Drama,History,195,Thomas Keneally,,Steven Zaillian
-0167260,2.35 : 1,8.9,The Lord of the Rings: The Return of the King,1563791,2003,"$94,000,000 (estimated)","$1,119,929,521, 25 Nov 2011",New Zealand,Peter Jackson,Adventure,Drama,Fantasy,201,J.R.R. Tolkien,,Fran Walsh
-0110912,2.39 : 1,8.9,Pulp Fiction,1728824,1994,"$8,000,000 (estimated)","$213,928,762",United States,Quentin Tarantino,Crime,Drama,,154,Quentin Tarantino,Roger Avary,
-0060196,2.35 : 1,8.8,"The Good, the Bad and the Ugly",652327,1966,"$1,200,000 (estimated)",,Italy,Sergio Leone,Western,,,161,Luciano Vincenzoni,Sergio Leone,
-0120737,2.40 : 1,8.8,The Lord of the Rings: The Fellowship of the Ring,1575671,2001,"$93,000,000 (estimated)","$871,530,324, 25 Nov 2011",New Zealand,Peter Jackson,Action,Adventure,Drama,178,J.R.R. Tolkien,,Fran Walsh
-0137523,2.39 : 1,8.8,Fight Club,1757082,1999,"$63,000,000 (estimated)","$71,000,000",United States,David Fincher,Drama,,,139,Chuck Palahniuk,,Jim Uhls
-0109830,2.39 : 1,8.8,Forrest Gump,1698079,1994,"$55,000,000 (estimated)","$677,945,399",United States,Robert Zemeckis,Drama,Romance,,142,Winston Groom,,Eric Roth
-1375666,2.39 : 1,8.8,Inception,1930549,2010,"$160,000,000 (estimated)","$825,532,764, 06 Jan 2011",United States,Christopher Nolan,Action,Adventure,Sci-Fi,148,Christopher Nolan,,
-0080684,2.20 : 1 (70 mm prints),8.7,Star Wars: Episode V - The Empire Strikes Back,1104104,1980,"$18,000,000 (estimated)","$247,916,602",United States,Irvin Kershner,Action,Adventure,Fantasy,124,Leigh Brackett,Lawrence Kasdan,
-0167261,2.35 : 1,8.7,The Lord of the Rings: The Two Towers,1411853,2002,"$94,000,000 (estimated)","$926,047,111, 25 Nov 2011",New Zealand,Peter Jackson,Adventure,Drama,Fantasy,179,J.R.R. Tolkien,,Fran Walsh
-0133093,2.39 : 1,8.7,The Matrix,1584194,1999,"$63,000,000 (estimated)","$463,517,383",United States,Lana Wachowski,Action,Sci-Fi,,136,Lilly Wachowski,Lana Wachowski,
-0099685,1.85 : 1,8.7,Goodfellas,957752,1990,"$25,000,000 (estimated)",,United States,Martin Scorsese,Biography,Crime,Drama,146,Nicholas Pileggi,,Nicholas Pileggi
-0073486,1.85 : 1,8.7,One Flew Over the Cuckoo's Nest,867286,1975,"$4,400,000 (estimated)","$11,930,050",United States,Milos Forman,Drama,,,133,Lawrence Hauben,Bo Goldman,
-0047478,1.33 : 1,8.6,Seven Samurai,297869,1954,"$2,000,000 (estimated)",,Japan,Akira Kurosawa,Action,Adventure,Drama,207,Akira Kurosawa,Shinobu Hashimoto,Hideo Oguni
-0114369,2.39 : 1,8.6,Se7en,1355496,1995,"$33,000,000 (estimated)","$327,311,859",United States,David Fincher,Crime,Drama,Mystery,127,Andrew Kevin Walker,,
-0317248,1.85 : 1,8.6,City of God,669102,2002,"$3,300,000 (estimated)","$32,059,295",Brazil,Fernando Meirelles,Crime,Drama,,130,Paulo Lins,,Bráulio Mantovani
-0118799,1.85 : 1,8.6,Life Is Beautiful,583694,1997,"$20,000,000 (estimated)","$229,163,264, 30 Jun 2012",Italy,Roberto Benigni,Comedy,Drama,Romance,116,Vincenzo Cerami,Roberto Benigni,
-0102926,1.85 : 1,8.6,The Silence of the Lambs,1194347,1991,"$19,000,000 (estimated)","$272,742,922",United States,Jonathan Demme,Crime,Drama,Thriller,118,Thomas Harris,,Ted Tally
-0038650,1.37 : 1,8.6,It's a Wonderful Life,377498,1946,"$3,180,000 (estimated)",,United States,Frank Capra,Drama,Family,Fantasy,130,Frances Goodrich,Albert Hackett,Frank Capra
-6751668,2.39 : 1,8.6,Parasite,313982,2019,,"$269,366,141",South Korea,Bong Joon Ho,Comedy,Drama,Thriller,132,Bong Joon Ho,,Bong Joon Ho
-0076759,2.20 : 1 (70 mm prints),8.6,Star Wars: Episode IV - A New Hope,1176112,1977,"$11,000,000 (estimated)","$775,398,007, 25 Nov 2011",United States,George Lucas,Action,Adventure,Fantasy,121,George Lucas,,
-0120815,1.85 : 1,8.6,Saving Private Ryan,1167058,1998,"$70,000,000 (estimated)","$481,840,909, 15 Jun 2012",United States,Steven Spielberg,Drama,War,,169,Robert Rodat,,
-0245429,1.85 : 1,8.6,Spirited Away,593541,2001,"$19,000,000 (estimated)","$274,925,095",Japan,Hayao Miyazaki,Animation,Adventure,Family,125,Hayao Miyazaki,,
-0120689,1.85 : 1,8.6,The Green Mile,1073728,1999,"$60,000,000 (estimated)","$286,801,374",United States,Frank Darabont,Crime,Drama,Fantasy,189,Stephen King,,Frank Darabont
-0816692,1.43 : 1 (70mm IMAX - some scenes),8.6,Interstellar,1383564,2014,"$165,000,000 (estimated)","$675,020,017",United States,Christopher Nolan,Adventure,Drama,Sci-Fi,169,Jonathan Nolan,Christopher Nolan,
-0110413,2.39 : 1,8.5,Léon: The Professional,975189,1994,"FRF115,000,000 (estimated)","$45,501,238",France,Luc Besson,Action,Crime,Drama,110,Luc Besson,,
-0114814,2.39 : 1,8.5,The Usual Suspects,942860,1995,"$6,000,000 (estimated)","$34,449,356",United States,Bryan Singer,Crime,Mystery,Thriller,106,Christopher McQuarrie,,
-0114814,2.39 : 1,8.5,The Usual Suspects,942860,1995,"$6,000,000 (estimated)","$34,449,356",United States,Bryan Singer,Crime,Mystery,Thriller,106,Christopher McQuarrie,,
-0110357,1.66 : 1 (negative ratio),8.5,The Lion King,890039,1994,"$45,000,000 (estimated)","$968,483,777",United States,Roger Allers,Animation,Adventure,Drama,88,Irene Mecchi,Jonathan Roberts,Linda Woolverton
-0120586,1.85 : 1,8.5,American History X,989478,1998,"$7,500,000 (estimated)","$23,875,127",United States,Tony Kaye,Drama,,,119,David McKenna,,
-0103064,2.20 : 1 (70mm version),8.5,Terminator 2: Judgment Day,951518,1991,"$102,000,000 (estimated)","$315,000,000",United States,James Cameron,Action,Sci-Fi,,137,James Cameron,William Wisher,
-0088763,1.37 : 1 (negative ratio),8.5,Back to the Future,985229,1985,"$19,000,000 (estimated)","$381,109,762",United States,Robert Zemeckis,Adventure,Comedy,Sci-Fi,116,Robert Zemeckis,Bob Gale,
-0253474,1.85 : 1,8.5,The Pianist,680789,2002,"$35,000,000 (estimated)","$120,072,577",United Kingdom,Roman Polanski,Biography,Drama,Music,150,Ronald Harwood,,Wladyslaw Szpilman
-0027977,1.37 : 1,8.5,Modern Times,202732,1936,"$1,500,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,Family,87,Charles Chaplin,,
-0054215,1.85 : 1,8.5,Psycho,566086,1960,"$806,947 (estimated)",,United States,Alfred Hitchcock,Horror,Mystery,Thriller,109,Joseph Stefano,,Robert Bloch
-0172495,2.39 : 1,8.5,Gladiator,1270226,2000,"$103,000,000 (estimated)","$457,640,427, 28 Feb 2012",United States,Ridley Scott,Action,Adventure,Drama,155,David Franzoni,,David Franzoni
-0021749,1.20 : 1,8.5,City Lights,156158,1931,"$1,500,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,Romance,87,Charles Chaplin,,Harry Carr
-1675434,1.85 : 1,8.5,The Intouchables,712961,2011,"EUR9,500,000 (estimated)","$426,480,871",France,Olivier Nakache,Biography,Comedy,Drama,112,Olivier Nakache,,Philippe Pozzo di Borgo
-0407887,2.39 : 1,8.5,The Departed,1125217,2006,"$90,000,000 (estimated)","$289,847,354",United States,Martin Scorsese,Crime,Drama,Thriller,151,William Monahan,,Alan Mak
-2582802,2.39 : 1,8.5,Whiplash,660848,2014,"$3,300,000 (estimated)","$48,982,041",United States,Damien Chazelle,Drama,Music,,106,Damien Chazelle,,
-0482571,2.39 : 1,8.5,The Prestige,1116043,2006,"$40,000,000 (estimated)","$109,676,311, 08 Feb 2007",United States,Christopher Nolan,Drama,Mystery,Sci-Fi,130,Jonathan Nolan,Christopher Nolan,
-0064116,2.35 : 1,8.5,Once Upon a Time in the West,285136,1968,"$5,000,000 (estimated)",,Italy,Sergio Leone,Western,,,165,Sergio Donati,Sergio Leone,
-7286456,1.33 : 1 ('Live With Murray Franklin' TV footage),8.5,Joker,714381,2019,"$55,000,000 (estimated)","$1,074,251,311",United States,Todd Phillips,Crime,Drama,Thriller,122,Todd Phillips,Scott Silver,
-0095327,1.85 : 1,8.5,Grave of the Fireflies,212865,1988,"$3,700,000 (estimated)","$25,220,794",Japan,Isao Takahata,Animation,Drama,War,89,Akiyuki Nosaka,,Isao Takahata
-0034583,1.37 : 1,8.5,Casablanca,495787,1942,"$950,000 (estimated)",,United States,Michael Curtiz,Drama,Romance,War,102,Julius J. Epstein,Philip G. Epstein,Howard Koch
-0047396,1.37 : 1 (original ratio),8.4,Rear Window,418175,1954,"$1,000,000 (estimated)","$36,888,916",United States,Alfred Hitchcock,Mystery,Thriller,,112,John Michael Hayes,,Cornell Woolrich
-0095765,2.35 : 1 (Nuovo Edition),8.5,Cinema Paradiso,213188,1988,"$5,000,000 (estimated)",,Italy,Giuseppe Tornatore,Drama,,,155,Giuseppe Tornatore,,Giuseppe Tornatore
-0078748,2.20 : 1 (70 mm prints),8.4,Alien,746858,1979,"$11,000,000 (estimated)","$203,630,630",United Kingdom,Ridley Scott,Horror,Sci-Fi,,117,Dan O'Bannon,,Dan O'Bannon
-0078788,2.00 : 1 (DVD version) (Univisium),8.4,Apocalypse Now,573591,1979,"$31,500,000 (estimated)",,United States,Francis Ford Coppola,Drama,Mystery,War,147,John Milius,Francis Ford Coppola,
-0082971,2.20 : 1 (70 mm prints),8.4,Raiders of the Lost Ark,843718,1981,"$18,000,000 (estimated)","$389,925,971",United States,Steven Spielberg,Action,Adventure,,115,Lawrence Kasdan,,George Lucas
-0209144,2.39 : 1,8.4,Memento,1068915,2000,"$9,000,000 (estimated)","$39,723,096",United States,Christopher Nolan,Mystery,Thriller,,113,Christopher Nolan,,Jonathan Nolan
-0032553,1.37 : 1,8.4,The Great Dictator,190439,1940,"$2,000,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,War,125,Charles Chaplin,,
-0405094,2.35 : 1,8.4,The Lives of Others,338419,2006,"$2,000,000 (estimated)","$77,356,819, 01 Feb 2009",Germany,Florian Henckel von Donnersmarck,Drama,Mystery,Thriller,137,Florian Henckel von Donnersmarck,,
-1853728,2.39 : 1,8.4,Django Unchained,1274692,2012,"$100,000,000 (estimated)","$425,368,238",United States,Quentin Tarantino,Drama,Western,,165,Quentin Tarantino,,
-4154756,1.90 : 1 (IMAX),8.5,Avengers: Infinity War,753000,2018,"$321,000,000 (estimated)","$2,048,709,917",United States,Anthony Russo,Action,Adventure,Sci-Fi,149,Christopher Markus,Stephen McFeely,
-0050825,1.33 : 1 (fullscreen DVD),8.4,Paths of Glory,165609,1957,"$935,000 (estimated)","$2,092,959",United States,Stanley Kubrick,Drama,War,,88,Stanley Kubrick,Calder Willingham,Jim Thompson
-0081505,1.33 : 1 (Full Screen),8.4,The Shining,838119,1980,"$19,000,000 (estimated)","$17,469,946",United Kingdom,Stanley Kubrick,Drama,Horror,,146,Stephen King,,Stanley Kubrick
-0910970,2.39 : 1,8.4,WALL·E,948466,2008,"$180,000,000 (estimated)","$534,767,889, 22 Mar 2009",United States,Andrew Stanton,Animation,Adventure,Family,98,Andrew Stanton,Pete Docter,
-8579674,1.90 : 1 (IMAX version),8.4,1917,226433,2019,"$100,000,000 (estimated)","$365,683,029",United States,Sam Mendes,Drama,War,,119,Sam Mendes,Krysty Wilson-Cairns,
-4633694,1.33 : 1 (Earth '67 and Spider-Man Animated Series footage),8.4,Spider-Man: Into the Spider-Verse,301033,2018,"$90,000,000 (estimated)","$375,540,831",United States,Bob Persichetti,Animation,Action,Adventure,117,Phil Lord,Rodney Rothman,
-0043014,1.37 : 1,8.4,Sunset Blvd.,188482,1950,"$1,752,000 (estimated)","$5,303,175",United States,Billy Wilder,Drama,Film-Noir,,110,Charles Brackett,Billy Wilder,D.M. Marshman Jr.
-0119698,1.85 : 1,8.4,Princess Mononoke,312716,1997,"JPY2,400,000,000 (estimated)","$159,375,308",Japan,Hayao Miyazaki,Animation,Adventure,Fantasy,134,Hayao Miyazaki,,Neil Gaiman
-0057012,1.66 : 1,8.4,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,430060,1964,"$1,800,000 (estimated)",,United Kingdom,Stanley Kubrick,Comedy,,,95,Stanley Kubrick,Terry Southern,Peter George
-4154796,1.90 : 1 (IMAX),8.4,Avengers: Endgame,679676,2019,"$356,000,000 (estimated)","$2,797,800,564",United States,Anthony Russo,Action,Adventure,Drama,181,Christopher Markus,Stephen McFeely,
-0364569,2.35 : 1,8.4,Oldboy,483161,2003,"$3,000,000 (estimated)","$14,980,005",South Korea,Chan-wook Park,Action,Drama,Mystery,120,Garon Tsuchiya,,Nobuaki Minegishi
-0051201,1.66 : 1,8.4,Witness for the Prosecution,99054,1957,"$3,000,000 (estimated)","$16,350,000",United States,Billy Wilder,Crime,Drama,Film-Noir,116,Agatha Christie,,Billy Wilder
-1345836,1.43 : 1 (70mm IMAX - some scenes),8.4,The Dark Knight Rises,1444454,2012,"$250,000,000 (estimated)","$1,084,939,099",United Kingdom,Christopher Nolan,Action,Adventure,,164,Jonathan Nolan,Christopher Nolan,
-0087843,1.85 : 1,8.4,Once Upon a Time in America,292099,1984,"$30,000,000 (estimated)","$8,157,411",United States,Sergio Leone,Crime,Drama,,229,Harry Grey,,Leonardo Benvenuti
-0090605,1.85 : 1,8.3,Aliens,623986,1986,"$18,500,000 (estimated)","$131,060,248",United States,James Cameron,Action,Adventure,Sci-Fi,137,James Cameron,David Giler,Walter Hill
-5311514,1.78 : 1 (original ratio),8.4,Your Name.,160072,2016,"JPY370,000,000 (estimated)","$357,986,087",Japan,Makoto Shinkai,Animation,Drama,Fantasy,106,Makoto Shinkai,,Makoto Shinkai
-0169547,2.35 : 1,8.3,American Beauty,1024900,1999,"$15,000,000 (estimated)","$226,200,000",United States,Sam Mendes,Drama,,,122,Alan Ball,,
-2380307,2.35 : 1,8.4,Coco,324245,2017,"$175,000,000 (estimated)","$807,082,196",United States,Lee Unkrich,Animation,Adventure,Family,105,Lee Unkrich,Jason Katz,Matthew Aldrich
-0112573,2.39 : 1,8.3,Braveheart,921735,1995,"$72,000,000 (estimated)","$210,409,945, 31 May 2012",United States,Mel Gibson,Biography,Drama,History,178,Randall Wallace,,
-0082096,1.66 : 1 (negative ratio),8.3,Das Boot,219736,1981,"$14,000,000 (estimated)","$73,482,661",West Germany,Wolfgang Petersen,Adventure,Drama,Thriller,149,Wolfgang Petersen,,Lothar G. Buchheim
-1187043,2.35 : 1,8.4,3 Idiots,317800,2009,"INR550,000,000 (estimated)","$80,000,000, 07 Mar 2010",India,Rajkumar Hirani,Comedy,Drama,,170,Rajkumar Hirani,Abhijat Joshi,
-0114709,1.78 : 1,8.3,Toy Story,839774,1995,"$30,000,000 (estimated)","$373,554,033",United States,John Lasseter,Animation,Adventure,Comedy,81,John Lasseter,Pete Docter,Andrew Stanton
-0114709,1.78 : 1,8.3,Toy Story,839774,1995,"$30,000,000 (estimated)","$373,554,033",United States,John Lasseter,Animation,Adventure,Comedy,81,John Lasseter,Pete Docter,Andrew Stanton
-0986264,2.35 : 1,8.4,Like Stars on Earth,152670,2007,,"$21,897,373",India,Aamir Khan,Drama,Family,,165,Amole Gupte,,Amole Gupte
-0086190,2.20 : 1 (70 mm prints),8.3,Star Wars: Episode VI - Return of the Jedi,905297,1983,"$32,500,000 (estimated)","$165,800,000",United States,Richard Marquand,Action,Adventure,Fantasy,131,Lawrence Kasdan,George Lucas,
-0086879,2.20 : 1 (70 mm prints),8.3,Amadeus,351337,1984,"$18,000,000 (estimated)",,United States,Milos Forman,Biography,Drama,History,160,Peter Shaffer,,Peter Shaffer
-0105236,2.35 : 1,8.3,Reservoir Dogs,870749,1992,"$1,200,000 (estimated)","$14,831,693",United States,Quentin Tarantino,Crime,Drama,Thriller,99,Quentin Tarantino,,Quentin Tarantino
-0361748,2.39 : 1,8.3,Inglourious Basterds,1188205,2009,"$75,000,000 (estimated)","$313,600,000",Germany,Quentin Tarantino,Adventure,Drama,War,153,Quentin Tarantino,,
-0119217,1.85 : 1,8.3,Good Will Hunting,807782,1997,"$10,000,000 (estimated)","$225,933,435",United States,Gus Van Sant,Drama,Romance,,126,Matt Damon,Ben Affleck,
-0062622,2.20 : 1,8.3,2001: A Space Odyssey,569292,1968,"$12,000,000 (estimated)","$190,700,000",United States,Stanley Kubrick,Adventure,Sci-Fi,,149,Stanley Kubrick,Arthur C. Clarke,
-0180093,1.37 : 1 (negative ratio),8.3,Requiem for a Dream,728517,2000,"$4,500,000 (estimated)","$7,390,108",United States,Darren Aronofsky,Drama,,,102,Hubert Selby Jr.,,Hubert Selby Jr.
-0180093,1.37 : 1 (negative ratio),8.3,Requiem for a Dream,728517,2000,"$4,500,000 (estimated)","$7,390,108",United States,Darren Aronofsky,Drama,,,102,Hubert Selby Jr.,,Hubert Selby Jr.
-0052357,1.50 : 1 (negative ratio),8.3,Vertigo,338195,1958,"$2,479,000 (estimated)",,United States,Alfred Hitchcock,Mystery,Romance,Thriller,128,Alec Coppel,Samuel A. Taylor,
-5074352,2.35 : 1,8.4,Dangal,136824,2016,"INR700,000,000 (estimated)","$310,000,000, 27 Jun 2017",India,Nitesh Tiwari,Action,Biography,Drama,161,Piyush Gupta,,Shreyas Jain
-0338013,1.85 : 1,8.3,Eternal Sunshine of the Spotless Mind,860708,2004,"$20,000,000 (estimated)","$73,169,222",United States,Michel Gondry,Drama,Romance,Sci-Fi,108,Charlie Kaufman,Michel Gondry,Pierre Bismuth
-0033467,1.37 : 1,8.3,Citizen Kane,378044,1941,"$839,727 (estimated)",,United States,Orson Welles,Drama,Mystery,,119,Herman J. Mankiewicz,Orson Welles,
-2106476,2.35 : 1,8.3,The Hunt,257690,2012,"$3,800,000 (estimated)","$18,309,793",Denmark,Thomas Vinterberg,Drama,,,115,Tobias Lindholm,Thomas Vinterberg,
-0093058,1.33 : 1 (Full Screen),8.3,Full Metal Jacket,638830,1987,"$30,000,000 (estimated)",,United Kingdom,Stanley Kubrick,Drama,War,,116,Stanley Kubrick,Michael Herr,Gustav Hasford
-0053125,1.33 : 1 (fullscreen),8.3,North by Northwest,283208,1959,"$3,101,000 (estimated)","$22,213,000",United States,Alfred Hitchcock,Adventure,Mystery,Thriller,136,Ernest Lehman,,
-0066921,1.66 : 1,8.3,A Clockwork Orange,720000,1971,"$2,200,000 (estimated)",,United Kingdom,Stanley Kubrick,Crime,Drama,Sci-Fi,136,Stanley Kubrick,,Anthony Burgess
-0208092,1.85 : 1,8.3,Snatch,746950,2000,"GBP6,000,000 (estimated)","$83,557,872",United Kingdom,Guy Ritchie,Comedy,Crime,,104,Guy Ritchie,,
-0012349,1.37 : 1 (sound version),8.3,The Kid,104273,1921,"$250,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,Family,68,Charles Chaplin,,
-0040522,1.37 : 1,8.3,Bicycle Thieves,135300,1948,"$133,000 (estimated)","$297,218",Italy,Vittorio De Sica,Drama,,,89,Cesare Zavattini,,Luigi Bartolini
-0045152,1.37 : 1,8.3,Singin' in the Rain,206427,1952,"$2,540,800 (estimated)","$13,979,088",United States,Stanley Donen,Comedy,Musical,Romance,103,Betty Comden,Adolph Green,
-0086250,2.39 : 1,8.3,Scarface,697134,1983,"$25,000,000 (estimated)","$65,884,703",United States,Brian De Palma,Crime,Drama,,170,Oliver Stone,,Howard Hawks
-0075314,1.85 : 1,8.3,Taxi Driver,677875,1976,"$1,300,000 (estimated)","$7,638,468",United States,Martin Scorsese,Crime,Drama,,114,Paul Schrader,,
-0211915,2.39 : 1,8.3,Amélie,674806,2001,"FRF77,000,000 (estimated)","$173,921,954",France,Jean-Pierre Jeunet,Comedy,Romance,,122,Guillaume Laurant,Jean-Pierre Jeunet,
-0056172,2.20 : 1 (70 mm prints),8.3,Lawrence of Arabia,253448,1962,"$15,000,000 (estimated)","$77,324,144",United Kingdom,David Lean,Adventure,Biography,Drama,228,T.E. Lawrence,,Robert Bolt
-0435761,1.33 : 1 (video camera sequences),8.3,Toy Story 3,720791,2010,"$200,000,000 (estimated)","$1,068,879,522, 01 Jun 2012",United States,Lee Unkrich,Animation,Adventure,Comedy,103,John Lasseter,Andrew Stanton,Lee Unkrich
-0070735,1.85 : 1,8.3,The Sting,229514,1973,"$5,500,000 (estimated)","$8,299,101",United States,George Roy Hill,Comedy,Crime,Drama,129,David S. Ward,,
-8267604,2.35 : 1,8.4,Capernaum,39864,2018,"$4,000,000 (estimated)",,Lebanon,Nadine Labaki,Drama,,,126,Nadine Labaki,Jihad Hojeily,Michelle Keserwany
-0017136,1.33 : 1,8.3,Metropolis,151159,1927,"DEM6,000,000 (estimated)",,Germany,Fritz Lang,Drama,Sci-Fi,,153,Thea von Harbou,,Thea von Harbou
-0059578,2.35 : 1,8.3,For a Few Dollars More,217901,1965,"$600,000 (estimated)",,Italy,Sergio Leone,Western,,,132,Sergio Leone,Fulvio Morsella,
-0044741,1.37 : 1,8.3,Ikiru,62048,1952,,"$79,298",Japan,Akira Kurosawa,Drama,,,143,Akira Kurosawa,Shinobu Hashimoto,Hideo Oguni
-1832382,1.85 : 1,8.3,A Separation,207145,2011,"$500,000 (estimated)","$24,426,169",Iran,Asghar Farhadi,Drama,,,123,Asghar Farhadi,,
-0036775,1.37 : 1,8.3,Double Indemnity,134603,1944,"$927,262 (estimated)","$95,249",United States,Billy Wilder,Crime,Drama,Film-Noir,107,Billy Wilder,Raymond Chandler,
-0056592,1.85 : 1,8.2,To Kill a Mockingbird,282223,1962,"$2,000,000 (estimated)",,United States,Robert Mulligan,Crime,Drama,,129,Harper Lee,,Horton Foote
-0053604,2.35 : 1,8.3,The Apartment,152516,1960,"$3,000,000 (estimated)",,United States,Billy Wilder,Comedy,Drama,Romance,125,Billy Wilder,I.A.L. Diamond,
-0097576,2.20 : 1 (70 mm prints),8.2,Indiana Jones and the Last Crusade,659625,1989,"$48,000,000 (estimated)","$474,171,806, 16 Jun 2012",United States,Steven Spielberg,Action,Adventure,,127,Jeffrey Boam,,George Lucas
-1255953,1.85 : 1,8.3,Incendies,133435,2010,"$6,800,000 (estimated)","$12,597,210",Canada,Denis Villeneuve,Drama,Mystery,War,131,Denis Villeneuve,,Wajdi Mouawad
-1049413,1.85 : 1,8.2,Up,886066,2009,"$175,000,000 (estimated)","$731,342,744, 25 Nov 2011",United States,Pete Docter,Animation,Adventure,Comedy,96,Pete Docter,Bob Peterson,Tom McCarthy
-0119488,2.39 : 1,8.2,L.A. Confidential,509676,1997,"$35,000,000 (estimated)","$126,216,940",United States,Curtis Hanson,Crime,Drama,Mystery,138,James Ellroy,,Brian Helgeland
-0071853,1.66 : 1 (negative ratio),8.2,Monty Python and the Holy Grail,479774,1975,"GBP229,575 (estimated)","$5,028,948",United Kingdom,Terry Gilliam,Adventure,Comedy,Fantasy,91,Graham Chapman,John Cleese,Eric Idle
-0113277,2.35 : 1,8.2,Heat,545661,1995,"$60,000,000 (estimated)","$120,000,000",United States,Michael Mann,Crime,Drama,Thriller,170,Michael Mann,,
-0095016,2.20 : 1 (70 mm prints),8.2,Die Hard,750935,1988,"$28,000,000 (estimated)","$140,767,956",United States,John McTiernan,Action,Thriller,,132,Roderick Thorp,,Jeb Stuart
-0042876,1.37 : 1,8.2,Rashomon,142406,1950,"$250,000 (estimated)",,Japan,Akira Kurosawa,Crime,Drama,Mystery,88,Ryûnosuke Akutagawa,,Akira Kurosawa
-0055630,2.35 : 1,8.2,Yojimbo,103237,1961,,"$916,667",Japan,Akira Kurosawa,Action,Drama,Thriller,110,Akira Kurosawa,,Akira Kurosawa
-0372784,2.39 : 1,8.2,Batman Begins,1245568,2005,"$150,000,000 (estimated)","$374,218,673",United States,Christopher Nolan,Action,Adventure,,140,Bob Kane,,David S. Goyer
-0105695,2.35 : 1,8.2,Unforgiven,355963,1992,"$14,400,000 (estimated)","$159,157,447",United States,Clint Eastwood,Drama,Western,,130,David Webb Peoples,,
-0363163,1.85 : 1,8.2,Downfall,316533,2004,"EUR13,500,000 (estimated)","$92,180,910, 02 Nov 2013",Germany,Oliver Hirschbiegel,Biography,Drama,History,156,Bernd Eichinger,,Joachim Fest
-6966692,2.00 : 1,8.2,Green Book,297983,2018,"$23,000,000 (estimated)","$322,720,649",United States,Peter Farrelly,Biography,Comedy,Drama,130,Nick Vallelonga,Brian Hayes Currie,Peter Farrelly
-0118849,1.85 : 1,8.3,Children of Heaven,58416,1997,"$180,000 (estimated)","$1,628,579",Iran,Majid Majidi,Drama,Family,Sport,89,Majid Majidi,,
-0053291,1.37 : 1 (negative ratio),8.2,Some Like It Hot,230747,1959,"$2,883,848 (estimated)","$1,039,935",United States,Billy Wilder,Comedy,Music,Romance,121,Billy Wilder,I.A.L. Diamond,
-0053291,1.37 : 1 (negative ratio),8.2,Some Like It Hot,230747,1959,"$2,883,848 (estimated)","$1,039,935",United States,Billy Wilder,Comedy,Music,Romance,121,Billy Wilder,I.A.L. Diamond,
-0347149,1.85 : 1,8.2,Howl's Moving Castle,298471,2004,"$24,000,000 (estimated)","$235,184,110",Japan,Hayao Miyazaki,Animation,Adventure,Family,119,Hayao Miyazaki,,Diana Wynne Jones
-0089881,1.85 : 1,8.2,Ran,104240,1985,"$11,500,000 (estimated)",,Japan,Akira Kurosawa,Action,Drama,,162,Akira Kurosawa,Hideo Oguni,Masato Ide
-0057115,2.30 : 1 (intended ratio),8.2,The Great Escape,213167,1963,"$4,000,000 (estimated)",,United States,John Sturges,Adventure,Drama,History,172,Paul Brickhill,,James Clavell
-0042192,1.37 : 1,8.2,All About Eve,114104,1950,"$1,400,000 (estimated)",,United States,Joseph L. Mankiewicz,Drama,,,138,Joseph L. Mankiewicz,,Mary Orr
-0268978,1.85 : 1,8.2,A Beautiful Mind,804127,2001,"$58,000,000 (estimated)","$313,542,341",United States,Ron Howard,Biography,Drama,,135,Akiva Goldsman,,Sylvia Nasar
-0112641,1.33 : 1 (Ace's High),8.2,Casino,436499,1995,"$52,000,000 (estimated)",,France,Martin Scorsese,Crime,Drama,,178,Nicholas Pileggi,,Nicholas Pileggi
-0096283,1.66 : 1 (negative ratio),8.2,My Neighbor Totoro,259477,1988,"$3,700,000 (estimated)","$4,729,463",Japan,Hayao Miyazaki,Animation,Family,Fantasy,86,Hayao Miyazaki,,
-0457430,1.85 : 1,8.2,Pan's Labyrinth,592394,2006,"EUR13,500,000 (estimated)","$87,041,569",Mexico,Guillermo del Toro,Drama,Fantasy,War,118,Guillermo del Toro,,
-0081398,1.85 : 1,8.2,Raging Bull,303762,1980,"$18,000,000 (estimated)",,United States,Martin Scorsese,Biography,Drama,Sport,129,Jake LaMotta,,Joseph Carter
-1305806,2.35 : 1,8.2,The Secret in Their Eyes,180687,2009,"$2,000,000 (estimated)","$40,527,719",Argentina,Juan José Campanella,Drama,Mystery,Romance,129,Eduardo Sacheri,Juan José Campanella,
-0120735,1.85 : 1,8.2,"Lock, Stock and Two Smoking Barrels",510812,1998,"GBP960,000 (estimated)","$28,356,188",United Kingdom,Guy Ritchie,Comedy,Crime,,107,Guy Ritchie,,
-0993846,1.85 : 1 (some scenes),8.2,The Wolf of Wall Street,1095374,2013,"$100,000,000 (estimated)","$392,000,694",United States,Martin Scorsese,Biography,Crime,Drama,180,Terence Winter,,Jordan Belfort
-0040897,1.37 : 1,8.2,The Treasure of the Sierra Madre,107930,1948,"$3,000,000 (estimated)",,United States,John Huston,Adventure,Drama,Western,126,John Huston,,B. Traven
-0055031,1.85 : 1,8.2,Judgment at Nuremberg,64858,1961,"$3,000,000 (estimated)",,United States,Stanley Kramer,Drama,War,,179,Abby Mann,,Abby Mann
-5027774,2.35 : 1,8.2,"Three Billboards Outside Ebbing, Missouri",386280,2017,"$15,000,000 (estimated)","$160,191,915",United Kingdom,Martin McDonagh,Comedy,Crime,Drama,115,Martin McDonagh,,
-0469494,2.39 : 1,8.2,There Will Be Blood,485007,2007,"$25,000,000 (estimated)","$77,208,711",United States,Paul Thomas Anderson,Drama,,,158,Paul Thomas Anderson,,Upton Sinclair
-0071315,2.35 : 1,8.2,Chinatown,277492,1974,"$6,000,000 (estimated)",,United States,Roman Polanski,Drama,Mystery,Thriller,130,Robert Towne,,Roman Polanski
-0015864,1.33 : 1,8.2,The Gold Rush,93707,1925,"$923,000 (estimated)",,United States,Charles Chaplin,Adventure,Comedy,Drama,95,Charles Chaplin,,
-0476735,1.85 : 1,8.3,My Father and My Son,72547,2005,,"$18,612,999",Turkey,Çagan Irmak,Drama,Family,,108,Çagan Irmak,,
-0046912,1.66 : 1,8.2,Dial M for Murder,147128,1954,"$1,400,000 (estimated)","$6,540,000",United States,Alfred Hitchcock,Crime,Thriller,,105,Frederick Knott,,Frederick Knott
-0434409,2.35 : 1,8.2,V for Vendetta,984360,2005,"$54,000,000 (estimated)","$132,511,035, 06 Jul 2012",United States,James McTeigue,Action,Drama,Sci-Fi,132,Lilly Wachowski,Lana Wachowski,
-0050976,1.37 : 1,8.2,The Seventh Seal,151472,1957,"$150,000 (estimated)",,Sweden,Ingmar Bergman,Drama,Fantasy,,96,Ingmar Bergman,,Ingmar Bergman
-2096673,1.85 : 1,8.2,Inside Out,570164,2015,"$175,000,000 (estimated)","$857,611,174",United States,Pete Docter,Animation,Adventure,Comedy,95,Pete Docter,Ronnie Del Carmen,
-0477348,2.39 : 1,8.1,No Country for Old Men,802464,2007,"$25,000,000 (estimated)","$171,627,166",United States,Ethan Coen,Crime,Drama,Thriller,122,Joel Coen,Ethan Coen,
-1291584,2.35 : 1,8.2,Warrior,416910,2011,"$25,000,000 (estimated)","$24,215,385, 03 Nov 2011",United States,Gavin O'Connor,Drama,Sport,,140,Gavin O'Connor,Anthony Tambakis,Cliff Dorfman
-0117951,1.33 : 1 (VHS ratio),8.1,Trainspotting,610010,1996,"$3,500,000 (estimated)","$71,558,971",United Kingdom,Danny Boyle,Drama,,,93,Irvine Welsh,,John Hodge
-0080678,2.35 : 1,8.1,The Elephant Man,207901,1980,"$5,000,000 (estimated)",,United States,David Lynch,Biography,Drama,,124,Christopher De Vore,Eric Bergren,David Lynch
-1130884,2.39 : 1,8.1,Shutter Island,1057497,2010,"$80,000,000 (estimated)","$294,804,195, 10 Jun 2010",United States,Martin Scorsese,Mystery,Thriller,,138,Laeta Kalogridis,,Dennis Lehane
-0167404,1.85 : 1,8.1,The Sixth Sense,873753,1999,"$40,000,000 (estimated)","$672,806,292",United States,M. Night Shyamalan,Drama,Mystery,Thriller,107,M. Night Shyamalan,,
-3170832,2.35 : 1,8.1,Room,339507,2015,"$13,000,000 (estimated)","$36,262,783",Ireland,Lenny Abrahamson,Drama,Thriller,,118,Emma Donoghue,,Emma Donoghue
-0084787,2.20 : 1 (70 mm prints),8.1,The Thing,348846,1982,"$15,000,000 (estimated)","$7,821,228",United States,John Carpenter,Horror,Mystery,Sci-Fi,109,Bill Lancaster,,John W. Campbell Jr.
-0031381,1.75 : 1 (1954 Reissue),8.1,Gone with the Wind,274408,1939,"$3,977,000 (estimated)","$400,176,459",United States,Victor Fleming,Drama,History,Romance,238,Margaret Mitchell,,Sidney Howard
-0107290,1.37 : 1 (negative ratio),8.1,Jurassic Park,817637,1993,"$63,000,000 (estimated)","$1,029,153,882",United States,Steven Spielberg,Action,Adventure,Sci-Fi,127,Michael Crichton,,Michael Crichton
-0083658,2.20 : 1 (70 mm prints),8.1,Blade Runner,658247,1982,"$28,000,000 (estimated)",,United States,Ridley Scott,Action,Sci-Fi,Thriller,117,Hampton Fancher,David Webb Peoples,
-0050212,2.35 : 1 (35mm mono release prints),8.1,The Bridge on the River Kwai,193243,1957,"$3,000,000 (estimated)","$2,760,714",United Kingdom,David Lean,Adventure,Drama,War,161,Pierre Boulle,,Carl Foreman
-0041959,1.37 : 1,8.1,The Third Man,150964,1949,,,United Kingdom,Carol Reed,Film-Noir,Mystery,Thriller,104,Graham Greene,,Graham Greene
-0266543,1.33 : 1 (Pixar's Refraiming Process),8.1,Finding Nemo,905221,2003,"$94,000,000 (estimated)","$936,743,261",United States,Andrew Stanton,Animation,Adventure,Comedy,100,Andrew Stanton,,Andrew Stanton
-0266543,1.33 : 1 (Pixar's Refraiming Process),8.1,Finding Nemo,905221,2003,"$94,000,000 (estimated)","$936,743,261",United States,Andrew Stanton,Animation,Adventure,Comedy,100,Andrew Stanton,,Andrew Stanton
-0047296,1.33 : 1,8.1,On the Waterfront,134076,1954,"$910,000 (estimated)","$678,960",United States,Elia Kazan,Crime,Drama,Thriller,108,Budd Schulberg,,Budd Schulberg
-0116282,1.85 : 1,8.1,Fargo,584456,1996,"$7,000,000 (estimated)","$36,000,000",United States,Joel Coen,Crime,Drama,Thriller,98,Ethan Coen,Joel Coen,
-0266697,2.39 : 1,8.1,Kill Bill: Vol. 1,949888,2003,"$30,000,000 (estimated)","$180,949,045, 28 May 2012",United States,Quentin Tarantino,Action,Crime,Thriller,111,Quentin Tarantino,,Quentin Tarantino
-1205489,2.39 : 1,8.1,Gran Torino,691825,2008,"$33,000,000 (estimated)","$269,958,228, 18 Jun 2009",Germany,Clint Eastwood,Drama,,,116,Nick Schenk,,Dave Johannson
-0120382,1.85 : 1 (theatrical ratio),8.1,The Truman Show,878180,1998,"$60,000,000 (estimated)","$264,118,201",United States,Peter Weir,Comedy,Drama,Sci-Fi,103,Andrew Niccol,,
-0079944,1.37 : 1,8.2,Stalker,105299,1979,"RUR6,000,000 (estimated)",,Soviet Union,Andrei Tarkovsky,Drama,Sci-Fi,,162,Arkadiy Strugatskiy,Boris Strugatskiy,
-0077416,2.20 : 1 (70 mm prints),8.1,The Deer Hunter,295755,1978,"$15,000,000 (estimated)",,United States,Michael Cimino,Drama,War,,183,Michael Cimino,Deric Washburn,Louis Garfinkle
-0077416,2.20 : 1 (70 mm prints),8.1,The Deer Hunter,295755,1978,"$15,000,000 (estimated)",,United States,Michael Cimino,Drama,War,,183,Michael Cimino,Deric Washburn,Louis Garfinkle
-3011894,2.35 : 1,8.1,Wild Tales,161258,2014,"$3,300,000 (estimated)","$36,353,750",Argentina,Damián Szifron,Comedy,Drama,Thriller,122,Germán Servidio,,Damián Szifron
-0353969,1.85 : 1,8.1,Memories of Murder,116417,2003,"$2,800,000 (estimated)",,South Korea,Bong Joon Ho,Action,Crime,Drama,131,Bong Joon Ho,,Kwang-rim Kim
-0116231,1.78 : 1,8.3,The Bandit,58896,1996,"TRL1,200,000 (estimated)","$1,979,000, 29 Oct 1997",Turkey,Yavuz Turgul,Crime,Drama,Thriller,128,Yavuz Turgul,,
-0118715,1.85 : 1,8.1,The Big Lebowski,691265,1998,"$15,000,000 (estimated)","$46,189,568",United States,Joel Coen,Comedy,Crime,Sport,117,Ethan Coen,Joel Coen,
-8108198,2.35 : 1,8.3,Andhadhun,56699,2018,"$4,500,000 (estimated)","$65,276,927",India,Sriram Raghavan,Crime,Thriller,,139,Arijit Biswas,,Yogesh Chandekar
-0978762,1.85 : 1,8.1,Mary and Max,156670,2009,"AUD8,240,000 (estimated)","$1,739,445",Australia,Adam Elliot,Animation,Comedy,Drama,92,Adam Elliot,,
-4729430,1.85 : 1,8.2,Klaus,60611,2019,"$40,000,000 (estimated)",,Spain,Sergio Pablos,Animation,Adventure,Comedy,96,Sergio Pablos,,Sergio Pablos
-0107207,1.85 : 1,8.1,In the Name of the Father,147550,1993,"$13,000,000 (estimated)",,Ireland,Jim Sheridan,Biography,Drama,,133,Gerry Conlon,,Terry George
-1950186,2.39 : 1,8.1,Ford v Ferrari,168357,2019,"$97,600,000 (estimated)","$225,507,881",United States,James Mangold,Action,Biography,Drama,152,Jez Butterworth,John-Henry Butterworth,Jason Keller
-2267998,2.35 : 1,8.1,Gone Girl,802101,2014,"$61,000,000 (estimated)","$369,330,363",United States,David Fincher,Drama,Mystery,Thriller,149,Gillian Flynn,,Gillian Flynn
-2119532,2.35 : 1,8.1,Hacksaw Ridge,397240,2016,"$40,000,000 (estimated)","$175,302,354",Australia,Mel Gibson,Biography,Drama,History,139,Robert Schenkkan,Andrew Knight,
-2278388,1.37 : 1 (1930s scenes),8.1,The Grand Budapest Hotel,664608,2014,"$25,000,000 (estimated)","$174,600,318",Germany,Wes Anderson,Adventure,Comedy,Crime,99,Stefan Zweig,,Wes Anderson
-0031679,1.37 : 1,8.1,Mr. Smith Goes to Washington,101732,1939,"$1,500,000 (estimated)",,United States,Frank Capra,Comedy,Drama,,129,Sidney Buchman,,Lewis R. Foster
-0017925,1.33 : 1,8.1,The General,75437,1926,"$750,000 (estimated)","$1,000,000, 31 Dec 1927",United States,Clyde Bruckman,Action,Adventure,Comedy,67,Buster Keaton,Clyde Bruckman,
-0892769,2.39 : 1,8.1,How to Train Your Dragon,635572,2010,"$165,000,000 (estimated)","$494,878,759, 22 Jul 2010",United States,Dean DeBlois,Animation,Action,Adventure,98,William Davies,Dean DeBlois,Chris Sanders
-0892769,2.39 : 1,8.1,How to Train Your Dragon,635572,2010,"$165,000,000 (estimated)","$494,878,759, 22 Jul 2010",United States,Dean DeBlois,Animation,Action,Adventure,98,William Davies,Dean DeBlois,Chris Sanders
-0112471,1.85 : 1,8.1,Before Sunrise,250756,1995,"$2,500,000 (estimated)","$22,600,000",United States,Richard Linklater,Drama,Romance,,101,Richard Linklater,Kim Krizan,
-0112471,1.85 : 1,8.1,Before Sunrise,250756,1995,"$2,500,000 (estimated)","$22,600,000",United States,Richard Linklater,Drama,Romance,,101,Richard Linklater,Kim Krizan,
-0264464,1.85 : 1,8.1,Catch Me If You Can,765884,2002,"$52,000,000 (estimated)","$352,114,312",United States,Steven Spielberg,Biography,Crime,Drama,141,Jeff Nathanson,,Frank Abagnale Jr.
-1392214,1.85 : 1,8.1,Prisoners,557084,2013,"$46,000,000 (estimated)","$122,126,687, 12 Jan 2014",United States,Denis Villeneuve,Crime,Drama,Mystery,153,Aaron Guzikowski,,
-2024544,2.35 : 1,8.1,12 Years a Slave,604503,2013,"$20,000,000 (estimated)","$187,733,202",United Kingdom,Steve McQueen,Biography,Drama,History,134,John Ridley,,Solomon Northup
-0061512,2.35 : 1,8.1,Cool Hand Luke,154339,1967,"$3,200,000 (estimated)","$16,217,773",United States,Stuart Rosenberg,Crime,Drama,,127,Donn Pearce,Frank Pierson,
-0061512,2.35 : 1,8.1,Cool Hand Luke,154339,1967,"$3,200,000 (estimated)","$16,217,773",United States,Stuart Rosenberg,Crime,Drama,,127,Donn Pearce,Frank Pierson,
-1392190,2.35 : 1,8.1,Mad Max: Fury Road,823903,2015,"$150,000,000 (estimated)","$378,436,354",Australia,George Miller,Action,Adventure,Sci-Fi,120,George Miller,Brendan McCarthy,Nick Lathouris
-0074958,1.85 : 1,8.1,Network,137296,1976,"$3,800,000 (estimated)","$1,250,675",United States,Sidney Lumet,Drama,,,121,Paddy Chayefsky,,
-0758758,2.35 : 1,8.1,Into the Wild,543467,2007,"$15,000,000 (estimated)","$56,255,142, 27 Mar 2008",United States,Sean Penn,Adventure,Biography,Drama,148,Sean Penn,,Jon Krakauer
-0092005,1.85 : 1,8.1,Stand by Me,346242,1986,"$8,000,000 (estimated)",,United States,Rob Reiner,Adventure,Drama,,89,Stephen King,,Raynold Gideon
-0079470,1.85 : 1,8.1,Monty Python's Life of Brian,349245,1979,"$4,000,000 (estimated)","$36,045,115",United Kingdom,Terry Jones,Comedy,,,94,Graham Chapman,John Cleese,Terry Gilliam
-0072684,1.66 : 1,8.1,Barry Lyndon,139458,1975,"$11,000,000 (estimated)",,United Kingdom,Stanley Kubrick,Adventure,Drama,History,185,Stanley Kubrick,,William Makepeace Thackeray
-0091763,2.20 : 1 (70mm prints),8.1,Platoon,364528,1986,"$6,000,000 (estimated)",,United States,Oliver Stone,Drama,War,,120,Oliver Stone,,
-0405159,2.39 : 1,8.1,Million Dollar Baby,607088,2004,"$30,000,000 (estimated)","$216,763,646",United States,Clint Eastwood,Drama,Sport,,132,Paul Haggis,,F.X. Toole
-1028532,1.85 : 1,8.1,Hachi: A Dog's Tale,236228,2009,"$16,000,000 (estimated)","$47,707,417",United Kingdom,Lasse Hallström,Drama,Family,,93,Stephen P. Lindsey,,Kaneto Shindô
-1028532,1.85 : 1,8.1,Hachi: A Dog's Tale,236228,2009,"$16,000,000 (estimated)","$47,707,417",United Kingdom,Lasse Hallström,Drama,Family,,93,Stephen P. Lindsey,,Kaneto Shindô
-1979320,2.35 : 1,8.1,Rush,410217,2013,"$38,000,000 (estimated)","$90,247,624",United Kingdom,Ron Howard,Biography,Drama,Sport,123,Peter Morgan,,
-0052618,2.66 : 1 (super 8mm),8.1,Ben-Hur,208932,1959,"$15,900,000 (estimated)","$196,200,000",United States,William Wyler,Adventure,Drama,History,212,Lew Wallace,,Karl Tunberg
-3315342,2.39 : 1,8.1,Logan,603325,2017,"$97,000,000 (estimated)","$619,021,436",United States,James Mangold,Action,Drama,Sci-Fi,137,James Mangold,,Scott Frank
-0060107,2.35 : 1,8.2,Andrei Rublev,42112,1966,"RUR1,000,000 (estimated)",,Soviet Union,Andrei Tarkovsky,Biography,Drama,History,205,Andrey Konchalovskiy,Andrei Tarkovsky,
-1201607,1.78 : 1 (Amazon Release),8.1,Harry Potter and the Deathly Hallows: Part 2,721304,2011,"$125,000,000 (estimated)","$1,341,511,219, 27 Apr 2013",United Kingdom,David Yates,Adventure,Drama,Fantasy,130,Steve Kloves,,J.K. Rowling
-0405508,2.35 : 1,8.2,Rang De Basanti,104833,2006,,,India,Rakeysh Omprakash Mehra,Comedy,Drama,,167,Renzil D'Silva,,Prasoon Joshi
-0097165,1.85 : 1,8.1,Dead Poets Society,393588,1989,"$16,400,000 (estimated)","$140,000,000",United States,Peter Weir,Comedy,Drama,,128,Tom Schulman,,
-0053198,2.35 : 1,8.1,The 400 Blows,97250,1959,,"$1,031,132",France,François Truffaut,Crime,Drama,,99,François Truffaut,,Marcel Moussy
-0087544,1.75 : 1 (original aspect ratio),8.1,Nausicaä of the Valley of the Wind,135916,1984,"$1,000,000 (estimated)","$7,951,190",Japan,Hayao Miyazaki,Animation,Adventure,Fantasy,117,Hayao Miyazaki,,Hayao Miyazaki
-0245712,1.85 : 1,8.1,Amores Perros,213451,2000,"$2,000,000 (estimated)",,Mexico,Alejandro G. Iñárritu,Drama,Thriller,,154,Guillermo Arriaga,,
-0395169,2.35 : 1,8.1,Hotel Rwanda,322515,2004,"$17,500,000 (estimated)","$36,532,987",United Kingdom,Terry George,Biography,Drama,History,121,Keir Pearson,Terry George,
-1895587,1.85 : 1,8.1,Spotlight,389317,2015,"$20,000,000 (estimated)","$98,275,238",United States,Tom McCarthy,Biography,Crime,Drama,129,Josh Singer,Tom McCarthy,
-4016934,2.35 : 1,8.1,The Handmaiden,93507,2016,"KRW10,000,000,000 (estimated)","$38,550,494",South Korea,Chan-wook Park,Drama,Romance,Thriller,145,Sarah Waters,Seo-kyeong Jeong,Chan-wook Park
-0032976,1.37 : 1,8.1,Rebecca,115361,1940,"$1,288,000 (estimated)","$7,592,465",United States,Alfred Hitchcock,Drama,Mystery,Romance,130,Daphne Du Maurier,,Robert E. Sherwood
-0075148,1.33 : 1 (negative ratio),8.1,Rocky,492800,1976,"$960,000 (estimated)","$225,000,000",United States,John G. Avildsen,Drama,Sport,,120,Sylvester Stallone,,
-0198781,1.85 : 1,8.0,"Monsters, Inc.",774459,2001,"$115,000,000 (estimated)","$562,816,256",United States,Pete Docter,Animation,Adventure,Comedy,92,Pete Docter,Jill Culton,Jeff Pidgeon
-0113247,1.85 : 1,8.1,La Haine,137861,1995,"EUR2,590,000 (estimated)",,France,Mathieu Kassovitz,Crime,Drama,,98,Mathieu Kassovitz,,
-0025316,1.37 : 1,8.1,It Happened One Night,88321,1934,"$325,000 (estimated)",,United States,Frank Capra,Comedy,Romance,,105,Robert Riskin,,Samuel Hopkins Adams
-0043338,1.37 : 1,8.1,Ace in the Hole,28042,1951,"$1,800,000 (estimated)",,United States,Billy Wilder,Drama,Film-Noir,,111,Billy Wilder,Lesser Samuels,Walter Newman
-0040725,1.37 : 1,8.2,The Red Shoes,27923,1948,"GBP500,000 (estimated)",,United Kingdom,Michael Powell,Drama,Music,Romance,135,Hans Christian Andersen,,Emeric Pressburger
-0093779,1.85 : 1,8.1,The Princess Bride,374058,1987,"$16,000,000 (estimated)",,United States,Rob Reiner,Adventure,Family,Fantasy,98,William Goldman,,William Goldman
-0118694,1.66 : 1,8.1,In the Mood for Love,113090,2000,,"$13,834,044",Hong Kong,Kar-Wai Wong,Drama,Romance,,98,Kar-Wai Wong,,
-0381681,1.85 : 1,8.0,Before Sunset,219129,2004,"$2,700,000 (estimated)","$15,992,615",United States,Richard Linklater,Drama,Romance,,80,Richard Linklater,Julie Delpy,Ethan Hawke
-1454029,1.85 : 1,8.1,The Help,406543,2011,"$25,000,000 (estimated)","$216,639,112",United States,Tate Taylor,Drama,,,146,Tate Taylor,,Kathryn Stockett
-1954470,2.35 : 1,8.2,Gangs of Wasseypur,73524,2012,"INR184,000,000 (estimated)",,India,Anurag Kashyap,Action,Comedy,Crime,321,Akhilesh Jaiswal,,Anurag Kashyap
-0042041,1.37 : 1,8.1,White Heat,27573,1949,"$1,300,000 (estimated)",,United States,Raoul Walsh,Action,Crime,Drama,114,Ivan Goff,Ben Roberts,
-0169102,2.35 : 1,8.1,Lagaan: Once Upon a Time in India,98016,2001,"$6,000,000 (estimated)",,India,Ashutosh Gowariker,Adventure,Drama,Musical,224,Ashutosh Gowariker,,Ashutosh Gowariker
-0088247,1.33 : 1 (VHS),8.0,The Terminator,765179,1984,"$6,400,000 (estimated)","$40,000,000",United Kingdom,James Cameron,Action,Sci-Fi,,107,James Cameron,Gale Anne Hurd,
-0064115,2.39 : 1,8.0,Butch Cassidy and the Sundance Kid,194490,1969,"$6,000,000 (estimated)","$1,999,525",United States,George Roy Hill,Biography,Crime,Drama,110,William Goldman,,
-0087884,1.66 : 1 (4K Restoration),8.1,"Paris, Texas",80619,1984,"GBP1,162,000 (estimated)","$5,064,134",West Germany,Wim Wenders,Drama,,,145,L.M. Kit Carson,,Sam Shepard
-0094625,1.85 : 1,8.0,Akira,151964,1988,"JPY1,100,000,000 (estimated)","$80,000,000",Japan,Katsuhiro Ôtomo,Animation,Drama,Sci-Fi,124,Katsuhiro Ôtomo,Izô Hashimoto,
-0103639,1.66 : 1 (negative ratio),8.0,Aladdin,348916,1992,"$28,000,000 (estimated)","$504,050,219",United States,Ron Clements,Animation,Adventure,Comedy,90,Ron Clements,John Musker,Ted Elliott
-4857264,2.35 : 1,8.1,The Invisible Guest,103921,2016,"EUR4,000,000 (estimated)","$31,191,910",Spain,Oriol Paulo,Crime,Mystery,Thriller,106,Oriol Paulo,,
-2338151,2.35 : 1,8.1,PK,148225,2014,,"$129,788,000",India,Rajkumar Hirani,Comedy,Drama,Fantasy,153,Rajkumar Hirani,,Abhijat Joshi
-2015381,1.90 : 1 (IMAX version: some scenes),8.0,Guardians of the Galaxy,1000005,2014,"$170,000,000 (estimated)","$774,176,600",United States,James Gunn,Action,Adventure,Comedy,121,James Gunn,Nicole Perlman,
-0107048,1.85 : 1,8.0,Groundhog Day,557794,1993,"$14,600,000 (estimated)",,United States,Harold Ramis,Comedy,Fantasy,Romance,101,Danny Rubin,Harold Ramis,
-4430212,2.35 : 1,8.2,Drishyam,60203,2015,"$9,400,000 (estimated)","$17,150,759",India,Nishikant Kamat,Crime,Drama,Mystery,163,Jeethu Joseph,,Upendra Sidhaye
-4430212,2.35 : 1,8.2,Drishyam,60203,2015,"$9,400,000 (estimated)","$17,150,759",India,Nishikant Kamat,Crime,Drama,Mystery,163,Jeethu Joseph,,Upendra Sidhaye
+0111161,1.85 : 1,9.3,The Shawshank Redemption,2200483,1994,"$25,000,000 (estimated)","$58,500,000",United States,Frank Darabont,Drama,,,142,Stephen King,,Frank Darabont
+0068646,1.37 : 1 (negative ratio),9.2,The Godfather,1516151,1972,"$6,000,000 (estimated)","$245,066,411",United States,Francis Ford Coppola,Crime,Drama,,175,Mario Puzo,Francis Ford Coppola,
+0071562,1.37 : 1 (negative ratio),9.0,The Godfather: Part II,1062130,1974,"$13,000,000 (estimated)",,United States,Francis Ford Coppola,Crime,Drama,,202,Francis Ford Coppola,Mario Puzo,
+0468569,1.43 : 1 (70mm IMAX - some scenes),9.0,The Dark Knight,2182090,2008,"$185,000,000 (estimated)","$1,004,558,444, 19 Jul 2012",United States,Christopher Nolan,Action,Crime,Drama,152,Jonathan Nolan,Christopher Nolan,
+0050083,1.66 : 1,8.9,12 Angry Men,642441,1957,"$350,000 (estimated)",,United States,Sidney Lumet,Drama,,,96,Reginald Rose,,Reginald Rose
+0108052,1.33 : 1 (negative ratio),8.9,Schindler's List,1148363,1993,"$22,000,000 (estimated)","$221,000,000",United States,Steven Spielberg,Biography,Drama,History,195,Thomas Keneally,,Steven Zaillian
+0167260,2.35 : 1,8.9,The Lord of the Rings: The Return of the King,1564057,2003,"$94,000,000 (estimated)","$1,119,929,521, 25 Nov 2011",New Zealand,Peter Jackson,Adventure,Drama,Fantasy,201,J.R.R. Tolkien,,Fran Walsh
+0110912,2.39 : 1,8.9,Pulp Fiction,1729232,1994,"$8,000,000 (estimated)","$213,928,762",United States,Quentin Tarantino,Crime,Drama,,154,Quentin Tarantino,Roger Avary,
+0060196,2.35 : 1,8.8,"The Good, the Bad and the Ugly",652482,1966,"$1,200,000 (estimated)",,Italy,Sergio Leone,Western,,,161,Luciano Vincenzoni,Sergio Leone,
+0120737,2.40 : 1,8.8,The Lord of the Rings: The Fellowship of the Ring,1575948,2001,"$93,000,000 (estimated)","$871,530,324, 25 Nov 2011",New Zealand,Peter Jackson,Action,Adventure,Drama,178,J.R.R. Tolkien,,Fran Walsh
+0137523,2.39 : 1,8.8,Fight Club,1757403,1999,"$63,000,000 (estimated)","$71,000,000",United States,David Fincher,Drama,,,139,Chuck Palahniuk,,Jim Uhls
+0109830,2.39 : 1,8.8,Forrest Gump,1698521,1994,"$55,000,000 (estimated)","$677,945,399",United States,Robert Zemeckis,Drama,Romance,,142,Winston Groom,,Eric Roth
+1375666,2.39 : 1,8.8,Inception,1930962,2010,"$160,000,000 (estimated)","$825,532,764, 06 Jan 2011",United States,Christopher Nolan,Action,Adventure,Sci-Fi,148,Christopher Nolan,,
+0080684,2.20 : 1 (70 mm prints),8.7,Star Wars: Episode V - The Empire Strikes Back,1104290,1980,"$18,000,000 (estimated)","$247,916,602",United States,Irvin Kershner,Action,Adventure,Fantasy,124,Leigh Brackett,Lawrence Kasdan,
+0167261,2.35 : 1,8.7,The Lord of the Rings: The Two Towers,1412109,2002,"$94,000,000 (estimated)","$926,047,111, 25 Nov 2011",New Zealand,Peter Jackson,Adventure,Drama,Fantasy,179,J.R.R. Tolkien,,Fran Walsh
+0133093,2.39 : 1,8.7,The Matrix,1584556,1999,"$63,000,000 (estimated)","$463,517,383",United States,Lana Wachowski,Action,Sci-Fi,,136,Lilly Wachowski,Lana Wachowski,
+0099685,1.85 : 1,8.7,Goodfellas,958018,1990,"$25,000,000 (estimated)",,United States,Martin Scorsese,Biography,Crime,Drama,146,Nicholas Pileggi,,Nicholas Pileggi
+0073486,1.85 : 1,8.7,One Flew Over the Cuckoo's Nest,867464,1975,"$4,400,000 (estimated)","$11,930,050",United States,Milos Forman,Drama,,,133,Lawrence Hauben,Bo Goldman,
+0047478,1.33 : 1,8.6,Seven Samurai,297948,1954,"$2,000,000 (estimated)",,Japan,Akira Kurosawa,Action,Adventure,Drama,207,Akira Kurosawa,Shinobu Hashimoto,Hideo Oguni
+0114369,2.39 : 1,8.6,Se7en,1355827,1995,"$33,000,000 (estimated)","$327,311,859",United States,David Fincher,Crime,Drama,Mystery,127,Andrew Kevin Walker,,
+0317248,1.85 : 1,8.6,City of God,669254,2002,"$3,300,000 (estimated)","$32,059,295",Brazil,Fernando Meirelles,Crime,Drama,,130,Paulo Lins,,Bráulio Mantovani
+0118799,1.85 : 1,8.6,Life Is Beautiful,583871,1997,"$20,000,000 (estimated)","$229,163,264, 30 Jun 2012",Italy,Roberto Benigni,Comedy,Drama,Romance,116,Vincenzo Cerami,Roberto Benigni,
+0102926,1.85 : 1,8.6,The Silence of the Lambs,1194615,1991,"$19,000,000 (estimated)","$272,742,922",United States,Jonathan Demme,Crime,Drama,Thriller,118,Thomas Harris,,Ted Tally
+0038650,1.37 : 1,8.6,It's a Wonderful Life,377560,1946,"$3,180,000 (estimated)",,United States,Frank Capra,Drama,Family,Fantasy,130,Frances Goodrich,Albert Hackett,Frank Capra
+6751668,2.39 : 1,8.6,Parasite,315699,2019,,"$269,366,141",South Korea,Bong Joon Ho,Comedy,Drama,Thriller,132,Bong Joon Ho,,Bong Joon Ho
+0076759,2.20 : 1 (70 mm prints),8.6,Star Wars: Episode IV - A New Hope,1176282,1977,"$11,000,000 (estimated)","$775,398,007, 25 Nov 2011",United States,George Lucas,Action,Adventure,Fantasy,121,George Lucas,,
+0120815,1.85 : 1,8.6,Saving Private Ryan,1167321,1998,"$70,000,000 (estimated)","$481,840,909, 15 Jun 2012",United States,Steven Spielberg,Drama,War,,169,Robert Rodat,,
+0245429,1.85 : 1,8.6,Spirited Away,593924,2001,"$19,000,000 (estimated)","$274,925,095",Japan,Hayao Miyazaki,Animation,Adventure,Family,125,Hayao Miyazaki,,
+0120689,1.85 : 1,8.6,The Green Mile,1073977,1999,"$60,000,000 (estimated)","$286,801,374",United States,Frank Darabont,Crime,Drama,Fantasy,189,Stephen King,,Frank Darabont
+0816692,1.43 : 1 (70mm IMAX - some scenes),8.6,Interstellar,1383957,2014,"$165,000,000 (estimated)","$675,020,017",United States,Christopher Nolan,Adventure,Drama,Sci-Fi,169,Jonathan Nolan,Christopher Nolan,
+0110413,2.39 : 1,8.5,Léon: The Professional,975434,1994,"FRF115,000,000 (estimated)","$45,501,238",France,Luc Besson,Action,Crime,Drama,110,Luc Besson,,
+0114814,2.39 : 1,8.5,The Usual Suspects,943056,1995,"$6,000,000 (estimated)","$34,449,356",United States,Bryan Singer,Crime,Mystery,Thriller,106,Christopher McQuarrie,,
+0110357,1.66 : 1 (negative ratio),8.5,The Lion King,890247,1994,"$45,000,000 (estimated)","$968,483,777",United States,Roger Allers,Animation,Adventure,Drama,88,Irene Mecchi,Jonathan Roberts,Linda Woolverton
+0120586,1.85 : 1,8.5,American History X,989663,1998,"$7,500,000 (estimated)","$23,875,127",United States,Tony Kaye,Drama,,,119,David McKenna,,
+0103064,2.20 : 1 (70mm version),8.5,Terminator 2: Judgment Day,951680,1991,"$102,000,000 (estimated)","$315,000,000",United States,James Cameron,Action,Sci-Fi,,137,James Cameron,William Wisher,
+0088763,1.37 : 1 (negative ratio),8.5,Back to the Future,985438,1985,"$19,000,000 (estimated)","$381,109,762",United States,Robert Zemeckis,Adventure,Comedy,Sci-Fi,116,Robert Zemeckis,Bob Gale,
+0253474,1.85 : 1,8.5,The Pianist,681013,2002,"$35,000,000 (estimated)","$120,072,577",United Kingdom,Roman Polanski,Biography,Drama,Music,150,Ronald Harwood,,Wladyslaw Szpilman
+0027977,1.37 : 1,8.5,Modern Times,202798,1936,"$1,500,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,Family,87,Charles Chaplin,,
+0054215,1.85 : 1,8.5,Psycho,566232,1960,"$806,947 (estimated)",,United States,Alfred Hitchcock,Horror,Mystery,Thriller,109,Joseph Stefano,,Robert Bloch
+0172495,2.39 : 1,8.5,Gladiator,1270521,2000,"$103,000,000 (estimated)","$457,640,427, 28 Feb 2012",United States,Ridley Scott,Action,Adventure,Drama,155,David Franzoni,,David Franzoni
+0021749,1.20 : 1,8.5,City Lights,156220,1931,"$1,500,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,Romance,87,Charles Chaplin,,Harry Carr
+1675434,1.85 : 1,8.5,The Intouchables,713154,2011,"EUR9,500,000 (estimated)","$426,480,871",France,Olivier Nakache,Biography,Comedy,Drama,112,Olivier Nakache,,Philippe Pozzo di Borgo
+0407887,2.39 : 1,8.5,The Departed,1125475,2006,"$90,000,000 (estimated)","$289,847,354",United States,Martin Scorsese,Crime,Drama,Thriller,151,William Monahan,,Alan Mak
+2582802,2.39 : 1,8.5,Whiplash,661096,2014,"$3,300,000 (estimated)","$48,982,041",United States,Damien Chazelle,Drama,Music,,106,Damien Chazelle,,
+0482571,2.39 : 1,8.5,The Prestige,1116326,2006,"$40,000,000 (estimated)","$109,676,311, 08 Feb 2007",United States,Christopher Nolan,Drama,Mystery,Sci-Fi,130,Jonathan Nolan,Christopher Nolan,
+0064116,2.35 : 1,8.5,Once Upon a Time in the West,285209,1968,"$5,000,000 (estimated)",,Italy,Sergio Leone,Western,,,165,Sergio Donati,Sergio Leone,
+7286456,1.33 : 1 ('Live With Murray Franklin' TV footage),8.5,Joker,715761,2019,"$55,000,000 (estimated)","$1,074,251,311",United States,Todd Phillips,Crime,Drama,Thriller,122,Todd Phillips,Scott Silver,
+0095327,1.85 : 1,8.5,Grave of the Fireflies,212960,1988,"$3,700,000 (estimated)","$25,220,794",Japan,Isao Takahata,Animation,Drama,War,89,Akiyuki Nosaka,,Isao Takahata
+0034583,1.37 : 1,8.5,Casablanca,495884,1942,"$950,000 (estimated)",,United States,Michael Curtiz,Drama,Romance,War,102,Julius J. Epstein,Philip G. Epstein,Howard Koch
+0047396,1.37 : 1 (original ratio),8.4,Rear Window,418292,1954,"$1,000,000 (estimated)","$36,888,916",United States,Alfred Hitchcock,Mystery,Thriller,,112,John Michael Hayes,,Cornell Woolrich
+0095765,2.35 : 1 (Nuovo Edition),8.5,Cinema Paradiso,213252,1988,"$5,000,000 (estimated)",,Italy,Giuseppe Tornatore,Drama,,,155,Giuseppe Tornatore,,Giuseppe Tornatore
+0078748,2.20 : 1 (70 mm prints),8.4,Alien,746993,1979,"$11,000,000 (estimated)","$203,630,630",United Kingdom,Ridley Scott,Horror,Sci-Fi,,117,Dan O'Bannon,,Dan O'Bannon
+0078788,2.00 : 1 (DVD version) (Univisium),8.4,Apocalypse Now,573716,1979,"$31,500,000 (estimated)",,United States,Francis Ford Coppola,Drama,Mystery,War,147,John Milius,Francis Ford Coppola,
+0082971,2.20 : 1 (70 mm prints),8.4,Raiders of the Lost Ark,843845,1981,"$18,000,000 (estimated)","$389,925,971",United States,Steven Spielberg,Action,Adventure,,115,Lawrence Kasdan,,George Lucas
+0209144,2.39 : 1,8.4,Memento,1069147,2000,"$9,000,000 (estimated)","$39,723,096",United States,Christopher Nolan,Mystery,Thriller,,113,Christopher Nolan,,Jonathan Nolan
+0032553,1.37 : 1,8.4,The Great Dictator,190491,1940,"$2,000,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,War,125,Charles Chaplin,,
+0405094,2.35 : 1,8.4,The Lives of Others,338511,2006,"$2,000,000 (estimated)","$77,356,819, 01 Feb 2009",Germany,Florian Henckel von Donnersmarck,Drama,Mystery,Thriller,137,Florian Henckel von Donnersmarck,,
+1853728,2.39 : 1,8.4,Django Unchained,1274986,2012,"$100,000,000 (estimated)","$425,368,238",United States,Quentin Tarantino,Drama,Western,,165,Quentin Tarantino,,
+4154756,1.90 : 1 (IMAX),8.5,Avengers: Infinity War,753255,2018,"$321,000,000 (estimated)","$2,048,709,917",United States,Anthony Russo,Action,Adventure,Sci-Fi,149,Christopher Markus,Stephen McFeely,
+0050825,1.33 : 1 (fullscreen DVD),8.4,Paths of Glory,165656,1957,"$935,000 (estimated)","$2,092,959",United States,Stanley Kubrick,Drama,War,,88,Stanley Kubrick,Calder Willingham,Jim Thompson
+0081505,1.33 : 1 (Full Screen),8.4,The Shining,838372,1980,"$19,000,000 (estimated)","$17,469,946",United Kingdom,Stanley Kubrick,Drama,Horror,,146,Stephen King,,Stanley Kubrick
+0910970,2.39 : 1,8.4,WALL·E,948667,2008,"$180,000,000 (estimated)","$534,767,889, 22 Mar 2009",United States,Andrew Stanton,Animation,Adventure,Family,98,Andrew Stanton,Pete Docter,
+8579674,1.90 : 1 (IMAX version),8.4,1917,228951,2019,"$100,000,000 (estimated)","$365,683,029",United States,Sam Mendes,Drama,War,,119,Sam Mendes,Krysty Wilson-Cairns,
+4633694,1.33 : 1 (Earth '67 and Spider-Man Animated Series footage),8.4,Spider-Man: Into the Spider-Verse,301294,2018,"$90,000,000 (estimated)","$375,540,831",United States,Bob Persichetti,Animation,Action,Adventure,117,Phil Lord,Rodney Rothman,
+0043014,1.37 : 1,8.4,Sunset Blvd.,188534,1950,"$1,752,000 (estimated)","$5,303,175",United States,Billy Wilder,Drama,Film-Noir,,110,Charles Brackett,Billy Wilder,D.M. Marshman Jr.
+0119698,1.85 : 1,8.4,Princess Mononoke,312926,1997,"JPY2,400,000,000 (estimated)","$159,375,308",Japan,Hayao Miyazaki,Animation,Adventure,Fantasy,134,Hayao Miyazaki,,Neil Gaiman
+0057012,1.66 : 1,8.4,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,430144,1964,"$1,800,000 (estimated)",,United Kingdom,Stanley Kubrick,Comedy,,,95,Stanley Kubrick,Terry Southern,Peter George
+4154796,1.90 : 1 (IMAX),8.4,Avengers: Endgame,680078,2019,"$356,000,000 (estimated)","$2,797,800,564",United States,Anthony Russo,Action,Adventure,Drama,181,Christopher Markus,Stephen McFeely,
+0364569,2.35 : 1,8.4,Oldboy,483290,2003,"$3,000,000 (estimated)","$14,980,005",South Korea,Chan-wook Park,Action,Drama,Mystery,120,Garon Tsuchiya,,Nobuaki Minegishi
+0051201,1.66 : 1,8.4,Witness for the Prosecution,99092,1957,"$3,000,000 (estimated)","$16,350,000",United States,Billy Wilder,Crime,Drama,Film-Noir,116,Agatha Christie,,Billy Wilder
+1345836,1.43 : 1 (70mm IMAX - some scenes),8.4,The Dark Knight Rises,1444684,2012,"$250,000,000 (estimated)","$1,084,939,099",United Kingdom,Christopher Nolan,Action,Adventure,,164,Jonathan Nolan,Christopher Nolan,
+0087843,1.85 : 1,8.4,Once Upon a Time in America,292181,1984,"$30,000,000 (estimated)","$8,157,411",United States,Sergio Leone,Crime,Drama,,229,Harry Grey,,Leonardo Benvenuti
+0090605,1.85 : 1,8.3,Aliens,624072,1986,"$18,500,000 (estimated)","$131,060,248",United States,James Cameron,Action,Adventure,Sci-Fi,137,James Cameron,David Giler,Walter Hill
+5311514,1.78 : 1 (original ratio),8.4,Your Name.,160196,2016,"JPY370,000,000 (estimated)","$357,986,087",Japan,Makoto Shinkai,Animation,Drama,Fantasy,106,Makoto Shinkai,,Makoto Shinkai
+0169547,2.35 : 1,8.3,American Beauty,1025072,1999,"$15,000,000 (estimated)","$226,200,000",United States,Sam Mendes,Drama,,,122,Alan Ball,,
+2380307,2.35 : 1,8.4,Coco,324447,2017,"$175,000,000 (estimated)","$807,082,196",United States,Lee Unkrich,Animation,Adventure,Family,105,Lee Unkrich,Jason Katz,Matthew Aldrich
+0112573,2.39 : 1,8.3,Braveheart,921893,1995,"$72,000,000 (estimated)","$210,409,945, 31 May 2012",United States,Mel Gibson,Biography,Drama,History,178,Randall Wallace,,
+0082096,1.66 : 1 (negative ratio),8.3,Das Boot,219788,1981,"$14,000,000 (estimated)","$73,482,661",West Germany,Wolfgang Petersen,Adventure,Drama,Thriller,149,Wolfgang Petersen,,Lothar G. Buchheim
+1187043,2.35 : 1,8.4,3 Idiots,317875,2009,"INR550,000,000 (estimated)","$80,000,000, 07 Mar 2010",India,Rajkumar Hirani,Comedy,Drama,,170,Rajkumar Hirani,Abhijat Joshi,
+0114709,1.78 : 1,8.3,Toy Story,839955,1995,"$30,000,000 (estimated)","$373,554,033",United States,John Lasseter,Animation,Adventure,Comedy,81,John Lasseter,Pete Docter,Andrew Stanton
+0986264,2.35 : 1,8.4,Like Stars on Earth,152734,2007,,"$21,897,373",India,Aamir Khan,Drama,Family,,165,Amole Gupte,,Amole Gupte
+0086190,2.20 : 1 (70 mm prints),8.3,Star Wars: Episode VI - Return of the Jedi,905457,1983,"$32,500,000 (estimated)","$165,800,000",United States,Richard Marquand,Action,Adventure,Fantasy,131,Lawrence Kasdan,George Lucas,
+0086879,2.20 : 1 (70 mm prints),8.3,Amadeus,351405,1984,"$18,000,000 (estimated)",,United States,Milos Forman,Biography,Drama,History,160,Peter Shaffer,,Peter Shaffer
+0105236,2.35 : 1,8.3,Reservoir Dogs,870925,1992,"$1,200,000 (estimated)","$14,831,693",United States,Quentin Tarantino,Crime,Drama,Thriller,99,Quentin Tarantino,,Quentin Tarantino
+0361748,2.39 : 1,8.3,Inglourious Basterds,1188482,2009,"$75,000,000 (estimated)","$313,600,000",Germany,Quentin Tarantino,Adventure,Drama,War,153,Quentin Tarantino,,
+0119217,1.85 : 1,8.3,Good Will Hunting,808015,1997,"$10,000,000 (estimated)","$225,933,435",United States,Gus Van Sant,Drama,Romance,,126,Matt Damon,Ben Affleck,
+0062622,2.20 : 1,8.3,2001: A Space Odyssey,569439,1968,"$12,000,000 (estimated)","$190,700,000",United States,Stanley Kubrick,Adventure,Sci-Fi,,149,Stanley Kubrick,Arthur C. Clarke,
+0180093,1.37 : 1 (negative ratio),8.3,Requiem for a Dream,728681,2000,"$4,500,000 (estimated)","$7,390,108",United States,Darren Aronofsky,Drama,,,102,Hubert Selby Jr.,,Hubert Selby Jr.
+0052357,1.50 : 1 (negative ratio),8.3,Vertigo,338297,1958,"$2,479,000 (estimated)",,United States,Alfred Hitchcock,Mystery,Romance,Thriller,128,Alec Coppel,Samuel A. Taylor,
+5074352,2.35 : 1,8.4,Dangal,136891,2016,"INR700,000,000 (estimated)","$310,000,000, 27 Jun 2017",India,Nitesh Tiwari,Action,Biography,Drama,161,Piyush Gupta,,Shreyas Jain
+0338013,1.85 : 1,8.3,Eternal Sunshine of the Spotless Mind,860946,2004,"$20,000,000 (estimated)","$73,169,222",United States,Michel Gondry,Drama,Romance,Sci-Fi,108,Charlie Kaufman,Michel Gondry,Pierre Bismuth
+0033467,1.37 : 1,8.3,Citizen Kane,378126,1941,"$839,727 (estimated)",,United States,Orson Welles,Drama,Mystery,,119,Herman J. Mankiewicz,Orson Welles,
+2106476,2.35 : 1,8.3,The Hunt,257782,2012,"$3,800,000 (estimated)","$18,309,793",Denmark,Thomas Vinterberg,Drama,,,115,Tobias Lindholm,Thomas Vinterberg,
+0093058,1.33 : 1 (Full Screen),8.3,Full Metal Jacket,638985,1987,"$30,000,000 (estimated)",,United Kingdom,Stanley Kubrick,Drama,War,,116,Stanley Kubrick,Michael Herr,Gustav Hasford
+0053125,1.33 : 1 (fullscreen),8.3,North by Northwest,283264,1959,"$3,101,000 (estimated)","$22,213,000",United States,Alfred Hitchcock,Adventure,Mystery,Thriller,136,Ernest Lehman,,
+0066921,1.66 : 1,8.3,A Clockwork Orange,720153,1971,"$2,200,000 (estimated)",,United Kingdom,Stanley Kubrick,Crime,Drama,Sci-Fi,136,Stanley Kubrick,,Anthony Burgess
+0208092,1.85 : 1,8.3,Snatch,747106,2000,"GBP6,000,000 (estimated)","$83,557,872",United Kingdom,Guy Ritchie,Comedy,Crime,,104,Guy Ritchie,,
+0012349,1.37 : 1 (sound version),8.3,The Kid,104309,1921,"$250,000 (estimated)",,United States,Charles Chaplin,Comedy,Drama,Family,68,Charles Chaplin,,
+0040522,1.37 : 1,8.3,Bicycle Thieves,135348,1948,"$133,000 (estimated)","$297,218",Italy,Vittorio De Sica,Drama,,,89,Cesare Zavattini,,Luigi Bartolini
+0045152,1.37 : 1,8.3,Singin' in the Rain,206471,1952,"$2,540,800 (estimated)","$13,979,088",United States,Stanley Donen,Comedy,Musical,Romance,103,Betty Comden,Adolph Green,
+0086250,2.39 : 1,8.3,Scarface,697324,1983,"$25,000,000 (estimated)","$65,884,703",United States,Brian De Palma,Crime,Drama,,170,Oliver Stone,,Howard Hawks
+0075314,1.85 : 1,8.3,Taxi Driver,678065,1976,"$1,300,000 (estimated)","$7,638,468",United States,Martin Scorsese,Crime,Drama,,114,Paul Schrader,,
+0211915,2.39 : 1,8.3,Amélie,674925,2001,"FRF77,000,000 (estimated)","$173,921,954",France,Jean-Pierre Jeunet,Comedy,Romance,,122,Guillaume Laurant,Jean-Pierre Jeunet,
+0056172,2.20 : 1 (70 mm prints),8.3,Lawrence of Arabia,253495,1962,"$15,000,000 (estimated)","$77,324,144",United Kingdom,David Lean,Adventure,Biography,Drama,228,T.E. Lawrence,,Robert Bolt
+0435761,1.33 : 1 (video camera sequences),8.3,Toy Story 3,720921,2010,"$200,000,000 (estimated)","$1,068,879,522, 01 Jun 2012",United States,Lee Unkrich,Animation,Adventure,Comedy,103,John Lasseter,Andrew Stanton,Lee Unkrich
+0070735,1.85 : 1,8.3,The Sting,229566,1973,"$5,500,000 (estimated)","$8,299,101",United States,George Roy Hill,Comedy,Crime,Drama,129,David S. Ward,,
+8267604,2.35 : 1,8.4,Capernaum,39970,2018,"$4,000,000 (estimated)",,Lebanon,Nadine Labaki,Drama,,,126,Nadine Labaki,Jihad Hojeily,Michelle Keserwany
+0017136,1.33 : 1,8.3,Metropolis,151195,1927,"DEM6,000,000 (estimated)",,Germany,Fritz Lang,Drama,Sci-Fi,,153,Thea von Harbou,,Thea von Harbou
+0059578,2.35 : 1,8.3,For a Few Dollars More,217951,1965,"$600,000 (estimated)",,Italy,Sergio Leone,Western,,,132,Sergio Leone,Fulvio Morsella,
+0044741,1.37 : 1,8.3,Ikiru,62069,1952,,"$79,298",Japan,Akira Kurosawa,Drama,,,143,Akira Kurosawa,Shinobu Hashimoto,Hideo Oguni
+1832382,1.85 : 1,8.3,A Separation,207184,2011,"$500,000 (estimated)","$24,426,169",Iran,Asghar Farhadi,Drama,,,123,Asghar Farhadi,,
+0036775,1.37 : 1,8.3,Double Indemnity,134639,1944,"$927,262 (estimated)","$95,249",United States,Billy Wilder,Crime,Drama,Film-Noir,107,Billy Wilder,Raymond Chandler,
+0056592,1.85 : 1,8.2,To Kill a Mockingbird,282263,1962,"$2,000,000 (estimated)",,United States,Robert Mulligan,Crime,Drama,,129,Harper Lee,,Horton Foote
+0053604,2.35 : 1,8.3,The Apartment,152573,1960,"$3,000,000 (estimated)",,United States,Billy Wilder,Comedy,Drama,Romance,125,Billy Wilder,I.A.L. Diamond,
+0097576,2.20 : 1 (70 mm prints),8.2,Indiana Jones and the Last Crusade,659733,1989,"$48,000,000 (estimated)","$474,171,806, 16 Jun 2012",United States,Steven Spielberg,Action,Adventure,,127,Jeffrey Boam,,George Lucas
+1255953,1.85 : 1,8.3,Incendies,133502,2010,"$6,800,000 (estimated)","$12,597,210",Canada,Denis Villeneuve,Drama,Mystery,War,131,Denis Villeneuve,,Wajdi Mouawad
+1049413,1.85 : 1,8.2,Up,886242,2009,"$175,000,000 (estimated)","$731,342,744, 25 Nov 2011",United States,Pete Docter,Animation,Adventure,Comedy,96,Pete Docter,Bob Peterson,Tom McCarthy
+0119488,2.39 : 1,8.2,L.A. Confidential,509764,1997,"$35,000,000 (estimated)","$126,216,940",United States,Curtis Hanson,Crime,Drama,Mystery,138,James Ellroy,,Brian Helgeland
+0071853,1.66 : 1 (negative ratio),8.2,Monty Python and the Holy Grail,479872,1975,"GBP229,575 (estimated)","$5,028,948",United Kingdom,Terry Gilliam,Adventure,Comedy,Fantasy,91,Graham Chapman,John Cleese,Eric Idle
+0113277,2.35 : 1,8.2,Heat,545752,1995,"$60,000,000 (estimated)","$120,000,000",United States,Michael Mann,Crime,Drama,Thriller,170,Michael Mann,,
+0095016,2.20 : 1 (70 mm prints),8.2,Die Hard,751054,1988,"$28,000,000 (estimated)","$140,767,956",United States,John McTiernan,Action,Thriller,,132,Roderick Thorp,,Jeb Stuart
+0042876,1.37 : 1,8.2,Rashomon,142454,1950,"$250,000 (estimated)",,Japan,Akira Kurosawa,Crime,Drama,Mystery,88,Ryûnosuke Akutagawa,,Akira Kurosawa
+0055630,2.35 : 1,8.2,Yojimbo,103266,1961,,"$916,667",Japan,Akira Kurosawa,Action,Drama,Thriller,110,Akira Kurosawa,,Akira Kurosawa
+0372784,2.39 : 1,8.2,Batman Begins,1245793,2005,"$150,000,000 (estimated)","$374,218,673",United States,Christopher Nolan,Action,Adventure,,140,Bob Kane,,David S. Goyer
+0105695,2.35 : 1,8.2,Unforgiven,356026,1992,"$14,400,000 (estimated)","$159,157,447",United States,Clint Eastwood,Drama,Western,,130,David Webb Peoples,,
+0363163,1.85 : 1,8.2,Downfall,316602,2004,"EUR13,500,000 (estimated)","$92,180,910, 02 Nov 2013",Germany,Oliver Hirschbiegel,Biography,Drama,History,156,Bernd Eichinger,,Joachim Fest
+6966692,2.00 : 1,8.2,Green Book,298346,2018,"$23,000,000 (estimated)","$322,720,649",United States,Peter Farrelly,Biography,Comedy,Drama,130,Nick Vallelonga,Brian Hayes Currie,Peter Farrelly
+0118849,1.85 : 1,8.3,Children of Heaven,58448,1997,"$180,000 (estimated)","$1,628,579",Iran,Majid Majidi,Drama,Family,Sport,89,Majid Majidi,,
+0053291,1.37 : 1 (negative ratio),8.2,Some Like It Hot,230804,1959,"$2,883,848 (estimated)","$1,039,935",United States,Billy Wilder,Comedy,Music,Romance,121,Billy Wilder,I.A.L. Diamond,
+0347149,1.85 : 1,8.2,Howl's Moving Castle,298552,2004,"$24,000,000 (estimated)","$235,184,110",Japan,Hayao Miyazaki,Animation,Adventure,Family,119,Hayao Miyazaki,,Diana Wynne Jones
+0089881,1.85 : 1,8.2,Ran,104273,1985,"$11,500,000 (estimated)",,Japan,Akira Kurosawa,Action,Drama,,162,Akira Kurosawa,Hideo Oguni,Masato Ide
+0057115,2.30 : 1 (intended ratio),8.2,The Great Escape,213209,1963,"$4,000,000 (estimated)",,United States,John Sturges,Adventure,Drama,History,172,Paul Brickhill,,James Clavell
+0042192,1.37 : 1,8.2,All About Eve,114125,1950,"$1,400,000 (estimated)",,United States,Joseph L. Mankiewicz,Drama,,,138,Joseph L. Mankiewicz,,Mary Orr
+0268978,1.85 : 1,8.2,A Beautiful Mind,804306,2001,"$58,000,000 (estimated)","$313,542,341",United States,Ron Howard,Biography,Drama,,135,Akiva Goldsman,,Sylvia Nasar
+0112641,1.33 : 1 (Ace's High),8.2,Casino,436593,1995,"$52,000,000 (estimated)",,France,Martin Scorsese,Crime,Drama,,178,Nicholas Pileggi,,Nicholas Pileggi
+0096283,1.66 : 1 (negative ratio),8.2,My Neighbor Totoro,259675,1988,"$3,700,000 (estimated)","$4,729,463",Japan,Hayao Miyazaki,Animation,Family,Fantasy,86,Hayao Miyazaki,,
+0457430,1.85 : 1,8.2,Pan's Labyrinth,592471,2006,"EUR13,500,000 (estimated)","$87,041,569",Mexico,Guillermo del Toro,Drama,Fantasy,War,118,Guillermo del Toro,,
+0081398,1.85 : 1,8.2,Raging Bull,303856,1980,"$18,000,000 (estimated)",,United States,Martin Scorsese,Biography,Drama,Sport,129,Jake LaMotta,,Joseph Carter
+1305806,2.35 : 1,8.2,The Secret in Their Eyes,180740,2009,"$2,000,000 (estimated)","$40,527,719",Argentina,Juan José Campanella,Drama,Mystery,Romance,129,Eduardo Sacheri,Juan José Campanella,
+0120735,1.85 : 1,8.2,"Lock, Stock and Two Smoking Barrels",510910,1998,"GBP960,000 (estimated)","$28,356,188",United Kingdom,Guy Ritchie,Comedy,Crime,,107,Guy Ritchie,,
+0993846,1.85 : 1 (some scenes),8.2,The Wolf of Wall Street,1095675,2013,"$100,000,000 (estimated)","$392,000,694",United States,Martin Scorsese,Biography,Crime,Drama,180,Terence Winter,,Jordan Belfort
+0040897,1.37 : 1,8.2,The Treasure of the Sierra Madre,107962,1948,"$3,000,000 (estimated)",,United States,John Huston,Adventure,Drama,Western,126,John Huston,,B. Traven
+0055031,1.85 : 1,8.2,Judgment at Nuremberg,64884,1961,"$3,000,000 (estimated)",,United States,Stanley Kramer,Drama,War,,179,Abby Mann,,Abby Mann
+5027774,2.35 : 1,8.2,"Three Billboards Outside Ebbing, Missouri",386443,2017,"$15,000,000 (estimated)","$160,191,915",United Kingdom,Martin McDonagh,Comedy,Crime,Drama,115,Martin McDonagh,,
+0469494,2.39 : 1,8.2,There Will Be Blood,485154,2007,"$25,000,000 (estimated)","$77,208,711",United States,Paul Thomas Anderson,Drama,,,158,Paul Thomas Anderson,,Upton Sinclair
+0071315,2.35 : 1,8.2,Chinatown,277555,1974,"$6,000,000 (estimated)",,United States,Roman Polanski,Drama,Mystery,Thriller,130,Robert Towne,,Roman Polanski
+0015864,1.33 : 1,8.2,The Gold Rush,93721,1925,"$923,000 (estimated)",,United States,Charles Chaplin,Adventure,Comedy,Drama,95,Charles Chaplin,,
+0476735,1.85 : 1,8.3,My Father and My Son,72565,2005,,"$18,612,999",Turkey,Çagan Irmak,Drama,Family,,108,Çagan Irmak,,
+0046912,1.66 : 1,8.2,Dial M for Murder,147169,1954,"$1,400,000 (estimated)","$6,540,000",United States,Alfred Hitchcock,Crime,Thriller,,105,Frederick Knott,,Frederick Knott
+0434409,2.35 : 1,8.2,V for Vendetta,984523,2005,"$54,000,000 (estimated)","$132,511,035, 06 Jul 2012",United States,James McTeigue,Action,Drama,Sci-Fi,132,Lilly Wachowski,Lana Wachowski,
+0050976,1.37 : 1,8.2,The Seventh Seal,151557,1957,"$150,000 (estimated)",,Sweden,Ingmar Bergman,Drama,Fantasy,,96,Ingmar Bergman,,Ingmar Bergman
+2096673,1.85 : 1,8.2,Inside Out,570354,2015,"$175,000,000 (estimated)","$857,611,174",United States,Pete Docter,Animation,Adventure,Comedy,95,Pete Docter,Ronnie Del Carmen,
+0477348,2.39 : 1,8.1,No Country for Old Men,802652,2007,"$25,000,000 (estimated)","$171,627,166",United States,Ethan Coen,Crime,Drama,Thriller,122,Joel Coen,Ethan Coen,
+1291584,2.35 : 1,8.2,Warrior,416979,2011,"$25,000,000 (estimated)","$24,215,385, 03 Nov 2011",United States,Gavin O'Connor,Drama,Sport,,140,Gavin O'Connor,Anthony Tambakis,Cliff Dorfman
+0117951,1.33 : 1 (VHS ratio),8.1,Trainspotting,610106,1996,"$3,500,000 (estimated)","$71,558,971",United Kingdom,Danny Boyle,Drama,,,93,Irvine Welsh,,John Hodge
+0080678,2.35 : 1,8.1,The Elephant Man,207948,1980,"$5,000,000 (estimated)",,United States,David Lynch,Biography,Drama,,124,Christopher De Vore,Eric Bergren,David Lynch
+1130884,2.39 : 1,8.1,Shutter Island,1057784,2010,"$80,000,000 (estimated)","$294,804,195, 10 Jun 2010",United States,Martin Scorsese,Mystery,Thriller,,138,Laeta Kalogridis,,Dennis Lehane
+0167404,1.85 : 1,8.1,The Sixth Sense,873904,1999,"$40,000,000 (estimated)","$672,806,292",United States,M. Night Shyamalan,Drama,Mystery,Thriller,107,M. Night Shyamalan,,
+3170832,2.35 : 1,8.1,Room,339636,2015,"$13,000,000 (estimated)","$36,262,783",Ireland,Lenny Abrahamson,Drama,Thriller,,118,Emma Donoghue,,Emma Donoghue
+0084787,2.20 : 1 (70 mm prints),8.1,The Thing,348919,1982,"$15,000,000 (estimated)","$7,821,228",United States,John Carpenter,Horror,Mystery,Sci-Fi,109,Bill Lancaster,,John W. Campbell Jr.
+0031381,1.75 : 1 (1954 Reissue),8.1,Gone with the Wind,274456,1939,"$3,977,000 (estimated)","$400,176,459",United States,Victor Fleming,Drama,History,Romance,238,Margaret Mitchell,,Sidney Howard
+0107290,1.37 : 1 (negative ratio),8.1,Jurassic Park,817779,1993,"$63,000,000 (estimated)","$1,029,153,882",United States,Steven Spielberg,Action,Adventure,Sci-Fi,127,Michael Crichton,,Michael Crichton
+0083658,2.20 : 1 (70 mm prints),8.1,Blade Runner,658384,1982,"$28,000,000 (estimated)",,United States,Ridley Scott,Action,Sci-Fi,Thriller,117,Hampton Fancher,David Webb Peoples,
+0050212,2.35 : 1 (35mm mono release prints),8.1,The Bridge on the River Kwai,193279,1957,"$3,000,000 (estimated)","$2,760,714",United Kingdom,David Lean,Adventure,Drama,War,161,Pierre Boulle,,Carl Foreman
+0041959,1.37 : 1,8.1,The Third Man,151000,1949,,,United Kingdom,Carol Reed,Film-Noir,Mystery,Thriller,104,Graham Greene,,Graham Greene
+0266543,1.33 : 1 (Pixar's Refraiming Process),8.1,Finding Nemo,905369,2003,"$94,000,000 (estimated)","$936,743,261",United States,Andrew Stanton,Animation,Adventure,Comedy,100,Andrew Stanton,,Andrew Stanton
+0047296,1.33 : 1,8.1,On the Waterfront,134097,1954,"$910,000 (estimated)","$678,960",United States,Elia Kazan,Crime,Drama,Thriller,108,Budd Schulberg,,Budd Schulberg
+0116282,1.85 : 1,8.1,Fargo,584600,1996,"$7,000,000 (estimated)","$36,000,000",United States,Joel Coen,Crime,Drama,Thriller,98,Ethan Coen,Joel Coen,
+0266697,2.39 : 1,8.1,Kill Bill: Vol. 1,950080,2003,"$30,000,000 (estimated)","$180,949,045, 28 May 2012",United States,Quentin Tarantino,Action,Crime,Thriller,111,Quentin Tarantino,,Quentin Tarantino
+1205489,2.39 : 1,8.1,Gran Torino,691927,2008,"$33,000,000 (estimated)","$269,958,228, 18 Jun 2009",Germany,Clint Eastwood,Drama,,,116,Nick Schenk,,Dave Johannson
+0120382,1.85 : 1 (theatrical ratio),8.1,The Truman Show,878391,1998,"$60,000,000 (estimated)","$264,118,201",United States,Peter Weir,Comedy,Drama,Sci-Fi,103,Andrew Niccol,,
+0079944,1.37 : 1,8.2,Stalker,105361,1979,"RUR6,000,000 (estimated)",,Soviet Union,Andrei Tarkovsky,Drama,Sci-Fi,,162,Arkadiy Strugatskiy,Boris Strugatskiy,
+0077416,2.20 : 1 (70 mm prints),8.1,The Deer Hunter,295827,1978,"$15,000,000 (estimated)",,United States,Michael Cimino,Drama,War,,183,Michael Cimino,Deric Washburn,Louis Garfinkle
+3011894,2.35 : 1,8.1,Wild Tales,161327,2014,"$3,300,000 (estimated)","$36,353,750",Argentina,Damián Szifron,Comedy,Drama,Thriller,122,Germán Servidio,,Damián Szifron
+0353969,1.85 : 1,8.1,Memories of Murder,116509,2003,"$2,800,000 (estimated)",,South Korea,Bong Joon Ho,Action,Crime,Drama,131,Bong Joon Ho,,Kwang-rim Kim
+0116231,1.78 : 1,8.3,The Bandit,58921,1996,"TRL1,200,000 (estimated)","$1,979,000, 29 Oct 1997",Turkey,Yavuz Turgul,Crime,Drama,Thriller,128,Yavuz Turgul,,
+0118715,1.85 : 1,8.1,The Big Lebowski,691419,1998,"$15,000,000 (estimated)","$46,189,568",United States,Joel Coen,Comedy,Crime,Sport,117,Ethan Coen,Joel Coen,
+8108198,2.35 : 1,8.3,Andhadhun,56755,2018,"$4,500,000 (estimated)","$65,276,927",India,Sriram Raghavan,Crime,Thriller,,139,Arijit Biswas,,Yogesh Chandekar
+0978762,1.85 : 1,8.1,Mary and Max,156705,2009,"AUD8,240,000 (estimated)","$1,739,445",Australia,Adam Elliot,Animation,Comedy,Drama,92,Adam Elliot,,
+4729430,1.85 : 1,8.2,Klaus,60770,2019,"$40,000,000 (estimated)",,Spain,Sergio Pablos,Animation,Adventure,Comedy,96,Sergio Pablos,,Sergio Pablos
+0107207,1.85 : 1,8.1,In the Name of the Father,147591,1993,"$13,000,000 (estimated)",,Ireland,Jim Sheridan,Biography,Drama,,133,Gerry Conlon,,Terry George
+1950186,2.39 : 1,8.1,Ford v Ferrari,169369,2019,"$97,600,000 (estimated)","$225,507,881",United States,James Mangold,Action,Biography,Drama,152,Jez Butterworth,John-Henry Butterworth,Jason Keller
+2267998,2.35 : 1,8.1,Gone Girl,802316,2014,"$61,000,000 (estimated)","$369,330,363",United States,David Fincher,Drama,Mystery,Thriller,149,Gillian Flynn,,Gillian Flynn
+2119532,2.35 : 1,8.1,Hacksaw Ridge,397366,2016,"$40,000,000 (estimated)","$175,302,354",Australia,Mel Gibson,Biography,Drama,History,139,Robert Schenkkan,Andrew Knight,
+2278388,1.37 : 1 (1930s scenes),8.1,The Grand Budapest Hotel,664796,2014,"$25,000,000 (estimated)","$174,600,318",Germany,Wes Anderson,Adventure,Comedy,Crime,99,Stefan Zweig,,Wes Anderson
+0031679,1.37 : 1,8.1,Mr. Smith Goes to Washington,101750,1939,"$1,500,000 (estimated)",,United States,Frank Capra,Comedy,Drama,,129,Sidney Buchman,,Lewis R. Foster
+0017925,1.33 : 1,8.1,The General,75469,1926,"$750,000 (estimated)","$1,000,000, 31 Dec 1927",United States,Clyde Bruckman,Action,Adventure,Comedy,67,Buster Keaton,Clyde Bruckman,
+0892769,2.39 : 1,8.1,How to Train Your Dragon,635679,2010,"$165,000,000 (estimated)","$494,878,759, 22 Jul 2010",United States,Dean DeBlois,Animation,Action,Adventure,98,William Davies,Dean DeBlois,Chris Sanders
+0112471,1.85 : 1,8.1,Before Sunrise,250861,1995,"$2,500,000 (estimated)","$22,600,000",United States,Richard Linklater,Drama,Romance,,101,Richard Linklater,Kim Krizan,
+0264464,1.85 : 1,8.1,Catch Me If You Can,766152,2002,"$52,000,000 (estimated)","$352,114,312",United States,Steven Spielberg,Biography,Crime,Drama,141,Jeff Nathanson,,Frank Abagnale Jr.
+1392214,1.85 : 1,8.1,Prisoners,557247,2013,"$46,000,000 (estimated)","$122,126,687, 12 Jan 2014",United States,Denis Villeneuve,Crime,Drama,Mystery,153,Aaron Guzikowski,,
+2024544,2.35 : 1,8.1,12 Years a Slave,604629,2013,"$20,000,000 (estimated)","$187,733,202",United Kingdom,Steve McQueen,Biography,Drama,History,134,John Ridley,,Solomon Northup
+0061512,2.35 : 1,8.1,Cool Hand Luke,154369,1967,"$3,200,000 (estimated)","$16,217,773",United States,Stuart Rosenberg,Crime,Drama,,127,Donn Pearce,Frank Pierson,
+1392190,2.35 : 1,8.1,Mad Max: Fury Road,824077,2015,"$150,000,000 (estimated)","$378,436,354",Australia,George Miller,Action,Adventure,Sci-Fi,120,George Miller,Brendan McCarthy,Nick Lathouris
+0074958,1.85 : 1,8.1,Network,137331,1976,"$3,800,000 (estimated)","$1,250,675",United States,Sidney Lumet,Drama,,,121,Paddy Chayefsky,,
+0758758,2.35 : 1,8.1,Into the Wild,543571,2007,"$15,000,000 (estimated)","$56,255,142, 27 Mar 2008",United States,Sean Penn,Adventure,Biography,Drama,148,Sean Penn,,Jon Krakauer
+0092005,1.85 : 1,8.1,Stand by Me,346297,1986,"$8,000,000 (estimated)",,United States,Rob Reiner,Adventure,Drama,,89,Stephen King,,Raynold Gideon
+0079470,1.85 : 1,8.1,Monty Python's Life of Brian,349333,1979,"$4,000,000 (estimated)","$36,045,115",United Kingdom,Terry Jones,Comedy,,,94,Graham Chapman,John Cleese,Terry Gilliam
+0072684,1.66 : 1,8.1,Barry Lyndon,139493,1975,"$11,000,000 (estimated)",,United Kingdom,Stanley Kubrick,Adventure,Drama,History,185,Stanley Kubrick,,William Makepeace Thackeray
+0091763,2.20 : 1 (70mm prints),8.1,Platoon,364604,1986,"$6,000,000 (estimated)",,United States,Oliver Stone,Drama,War,,120,Oliver Stone,,
+0405159,2.39 : 1,8.1,Million Dollar Baby,607207,2004,"$30,000,000 (estimated)","$216,763,646",United States,Clint Eastwood,Drama,Sport,,132,Paul Haggis,,F.X. Toole
+1028532,1.85 : 1,8.1,Hachi: A Dog's Tale,236298,2009,"$16,000,000 (estimated)","$47,707,417",United Kingdom,Lasse Hallström,Drama,Family,,93,Stephen P. Lindsey,,Kaneto Shindô
+1979320,2.35 : 1,8.1,Rush,410329,2013,"$38,000,000 (estimated)","$90,247,624",United Kingdom,Ron Howard,Biography,Drama,Sport,123,Peter Morgan,,
+0052618,2.66 : 1 (super 8mm),8.1,Ben-Hur,208974,1959,"$15,900,000 (estimated)","$196,200,000",United States,William Wyler,Adventure,Drama,History,212,Lew Wallace,,Karl Tunberg
+3315342,2.39 : 1,8.1,Logan,603468,2017,"$97,000,000 (estimated)","$619,021,436",United States,James Mangold,Action,Drama,Sci-Fi,137,James Mangold,,Scott Frank
+0060107,2.35 : 1,8.2,Andrei Rublev,42142,1966,"RUR1,000,000 (estimated)",,Soviet Union,Andrei Tarkovsky,Biography,Drama,History,205,Andrey Konchalovskiy,Andrei Tarkovsky,
+1201607,1.78 : 1 (Amazon Release),8.1,Harry Potter and the Deathly Hallows: Part 2,721440,2011,"$125,000,000 (estimated)","$1,341,511,219, 27 Apr 2013",United Kingdom,David Yates,Adventure,Drama,Fantasy,130,Steve Kloves,,J.K. Rowling
+0405508,2.35 : 1,8.2,Rang De Basanti,104848,2006,,,India,Rakeysh Omprakash Mehra,Comedy,Drama,,167,Renzil D'Silva,,Prasoon Joshi
+0097165,1.85 : 1,8.1,Dead Poets Society,393730,1989,"$16,400,000 (estimated)","$140,000,000",United States,Peter Weir,Comedy,Drama,,128,Tom Schulman,,
+0053198,2.35 : 1,8.1,The 400 Blows,97278,1959,,"$1,031,132",France,François Truffaut,Crime,Drama,,99,François Truffaut,,Marcel Moussy
+0087544,1.75 : 1 (original aspect ratio),8.1,Nausicaä of the Valley of the Wind,135999,1984,"$1,000,000 (estimated)","$7,951,190",Japan,Hayao Miyazaki,Animation,Adventure,Fantasy,117,Hayao Miyazaki,,Hayao Miyazaki
+0245712,1.85 : 1,8.1,Amores Perros,213488,2000,"$2,000,000 (estimated)",,Mexico,Alejandro G. Iñárritu,Drama,Thriller,,154,Guillermo Arriaga,,
+0395169,2.35 : 1,8.1,Hotel Rwanda,322565,2004,"$17,500,000 (estimated)","$36,532,987",United Kingdom,Terry George,Biography,Drama,History,121,Keir Pearson,Terry George,
+1895587,1.85 : 1,8.1,Spotlight,389420,2015,"$20,000,000 (estimated)","$98,275,238",United States,Tom McCarthy,Biography,Crime,Drama,129,Josh Singer,Tom McCarthy,
+4016934,2.35 : 1,8.1,The Handmaiden,93597,2016,"KRW10,000,000,000 (estimated)","$38,550,494",South Korea,Chan-wook Park,Drama,Romance,Thriller,145,Sarah Waters,Seo-kyeong Jeong,Chan-wook Park
+0032976,1.37 : 1,8.1,Rebecca,115387,1940,"$1,288,000 (estimated)","$7,592,465",United States,Alfred Hitchcock,Drama,Mystery,Romance,130,Daphne Du Maurier,,Robert E. Sherwood
+0075148,1.33 : 1 (negative ratio),8.1,Rocky,492881,1976,"$960,000 (estimated)","$225,000,000",United States,John G. Avildsen,Drama,Sport,,120,Sylvester Stallone,,
+0198781,1.85 : 1,8.0,"Monsters, Inc.",774612,2001,"$115,000,000 (estimated)","$562,816,256",United States,Pete Docter,Animation,Adventure,Comedy,92,Pete Docter,Jill Culton,Jeff Pidgeon
+0113247,1.85 : 1,8.1,La Haine,137900,1995,"EUR2,590,000 (estimated)",,France,Mathieu Kassovitz,Crime,Drama,,98,Mathieu Kassovitz,,
+0025316,1.37 : 1,8.1,It Happened One Night,88342,1934,"$325,000 (estimated)",,United States,Frank Capra,Comedy,Romance,,105,Robert Riskin,,Samuel Hopkins Adams
+0043338,1.37 : 1,8.1,Ace in the Hole,28078,1951,"$1,800,000 (estimated)",,United States,Billy Wilder,Drama,Film-Noir,,111,Billy Wilder,Lesser Samuels,Walter Newman
+0040725,1.37 : 1,8.2,The Red Shoes,27952,1948,"GBP500,000 (estimated)",,United Kingdom,Michael Powell,Drama,Music,Romance,135,Hans Christian Andersen,,Emeric Pressburger
+0093779,1.85 : 1,8.1,The Princess Bride,374108,1987,"$16,000,000 (estimated)",,United States,Rob Reiner,Adventure,Family,Fantasy,98,William Goldman,,William Goldman
+0118694,1.66 : 1,8.1,In the Mood for Love,113136,2000,,"$13,834,044",Hong Kong,Kar-Wai Wong,Drama,Romance,,98,Kar-Wai Wong,,
+0381681,1.85 : 1,8.0,Before Sunset,219199,2004,"$2,700,000 (estimated)","$15,992,615",United States,Richard Linklater,Drama,Romance,,80,Richard Linklater,Julie Delpy,Ethan Hawke
+1454029,1.85 : 1,8.1,The Help,406591,2011,"$25,000,000 (estimated)","$216,639,112",United States,Tate Taylor,Drama,,,146,Tate Taylor,,Kathryn Stockett
+1954470,2.35 : 1,8.2,Gangs of Wasseypur,73562,2012,"INR184,000,000 (estimated)",,India,Anurag Kashyap,Action,Comedy,Crime,321,Akhilesh Jaiswal,,Anurag Kashyap
+0042041,1.37 : 1,8.1,White Heat,27597,1949,"$1,300,000 (estimated)",,United States,Raoul Walsh,Action,Crime,Drama,114,Ivan Goff,Ben Roberts,
+0169102,2.35 : 1,8.1,Lagaan: Once Upon a Time in India,98034,2001,"$6,000,000 (estimated)",,India,Ashutosh Gowariker,Adventure,Drama,Musical,224,Ashutosh Gowariker,,Ashutosh Gowariker
+0088247,1.33 : 1 (VHS),8.0,The Terminator,765289,1984,"$6,400,000 (estimated)","$40,000,000",United Kingdom,James Cameron,Action,Sci-Fi,,107,James Cameron,Gale Anne Hurd,
+0064115,2.39 : 1,8.0,Butch Cassidy and the Sundance Kid,194529,1969,"$6,000,000 (estimated)","$1,999,525",United States,George Roy Hill,Biography,Crime,Drama,110,William Goldman,,
+0087884,1.66 : 1 (4K Restoration),8.1,"Paris, Texas",80656,1984,"GBP1,162,000 (estimated)","$5,064,134",West Germany,Wim Wenders,Drama,,,145,L.M. Kit Carson,,Sam Shepard
+0094625,1.85 : 1,8.0,Akira,152020,1988,"JPY1,100,000,000 (estimated)","$80,000,000",Japan,Katsuhiro Ôtomo,Animation,Drama,Sci-Fi,124,Katsuhiro Ôtomo,Izô Hashimoto,
+0103639,1.66 : 1 (negative ratio),8.0,Aladdin,349047,1992,"$28,000,000 (estimated)","$504,050,219",United States,Ron Clements,Animation,Adventure,Comedy,90,Ron Clements,John Musker,Ted Elliott
+4857264,2.35 : 1,8.1,The Invisible Guest,104094,2016,"EUR4,000,000 (estimated)","$31,191,910",Spain,Oriol Paulo,Crime,Mystery,Thriller,106,Oriol Paulo,,
+2338151,2.35 : 1,8.1,PK,148285,2014,,"$129,788,000",India,Rajkumar Hirani,Comedy,Drama,Fantasy,153,Rajkumar Hirani,,Abhijat Joshi
+2015381,1.90 : 1 (IMAX version: some scenes),8.0,Guardians of the Galaxy,1000163,2014,"$170,000,000 (estimated)","$774,176,600",United States,James Gunn,Action,Adventure,Comedy,121,James Gunn,Nicole Perlman,
+0107048,1.85 : 1,8.0,Groundhog Day,557914,1993,"$14,600,000 (estimated)",,United States,Harold Ramis,Comedy,Fantasy,Romance,101,Danny Rubin,Harold Ramis,
+4430212,2.35 : 1,8.2,Drishyam,60254,2015,"$9,400,000 (estimated)","$17,150,759",India,Nishikant Kamat,Crime,Drama,Mystery,163,Jeethu Joseph,,Upendra Sidhaye

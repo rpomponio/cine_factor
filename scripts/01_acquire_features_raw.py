@@ -66,6 +66,7 @@ for i in range(0, df_ratings.shape[0]):
         result = acquire_features(df_ratings.UID[i])
     except:
         print('exception occurred for: %s, skipping movie!' % df_ratings.Title[i])
+        continue
     if i==0:
         df_results = result.to_frame().T
     else:
