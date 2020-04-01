@@ -1,0 +1,342 @@
+Movie,My Rating,RT,Audience,IMDb,Release Year
+LOTR: Fellowship of the Ring,4,91,95,88,2001
+LOTR: The Two Towers,5,96,95,87,2002
+LOTR: Return of the King,5,95,86,89,2003
+Star Wars: Phantom Menace,2,55,59,65,1999
+Star Wars: Attack of the Clones,2,67,59,67,2002
+Star Wars: Revenge of the Sith,3,80,65,77,2005
+Star Wars: A New Hope,5,94,96,87,1977
+Star Wars: Empire Strikes Back,4,95,97,88,1980
+Star Wars: Return of the Jedi,4,94,96,87,1983
+Star Wars: The Force Awakens,4,92,89,84,2015
+Rogue One,5,85,87,79,2016
+Indiana Jones: Raiders of the Lost Ark,3,95,96,86,1981
+Indiana Jones and the Temple of Doom,3,85,81,76,1984
+Indiana Jones and the Last Crusade,3,88,94,83,1989
+Indiana Jones and the Kingdom of the Crystal Skull,2,78,54,62,2008
+Dr. No,4,96,82,73,1962
+From Russia with Love,3,96,83,75,1963
+Goldfinger,5,96,89,78,1964
+Thunderball,4,85,73,70,1965
+On Her Majesty's Secret Service,3,82,64,68,1969
+Diamonds Are Forever,2,66,59,67,1971
+Live and Let Die,3,66,65,68,1973
+The Man with the Golden Gun,2,46,57,68,1974
+GoldenEye,2,82,83,72,1995
+Tomorrow Never Dies,2,57,53,65,1997
+Die Another Day,3,57,41,61,2002
+Casino Royale,5,95,89,80,2006
+Quantum of Solace,3,65,58,67,2008
+Skyfall,4,93,86,78,2012
+Spectre,3,64,63,70,2015
+HP: Sorcerer's Stone,3,80,82,75,2001
+HP: Chamber of Secrets,4,82,79,73,2002
+HP: Prisoner of Azkaban,5,91,86,78,2004
+HP: Goblet of Fire,5,88,74,76,2005
+HP: Order of the Phoenix,4,79,81,75,2007
+HP: Half-Blood Prince,3,84,77,75,2009
+HP: Deathly Hallows Pt 1,4,78,85,77,2010
+HP: Deathly Hallows Pt 2,4,96,89,81,2011
+Rocky,4,92,68,81,1976
+Batman Begins,4,85,94,83,2005
+The Dark Knight,5,94,94,90,2008
+The Dark Knight Rises,4,87,90,85,2012
+POTC: Curse of the Black Pearl,4,79,86,81,2003
+POTC: Dead Man's Chest,3,54,72,73,2006
+POTC: At World's End,2,45,72,71,2007
+Iron Man,4,94,91,79,2008
+Iron Man 2,3,72,72,70,2010
+Avengers: Age of Ultron,2,74,86,77,2015
+Captain America: Civil War,2,90,89,79,2016
+Prometheus,4,73,69,70,2012
+Alien: Covenant,3,71,60,68,2017
+Jurassic Park,4,93,91,81,1993
+The Lost World: Jurassic Park,2,52,51,65,1997
+Avatar,4,83,82,79,2009
+Shrek,3,88,90,79,2001
+Shrek 2,2,88,69,72,2004
+Back to the Future,4,96,94,85,1985
+Beverly Hills Cop,4,83,81,73,1984
+Silence of the Lambs,5,95,95,86,1991
+The Bourne Identity,5,83,93,79,2002
+The Bourne Supremacy,3,81,90,78,2004
+The Bourne Ultimatum,4,93,91,81,2007
+The Bourne Legacy,2,55,59,67,2012
+The Lion King,5,91,93,85,1994
+Home Alone,4,54,79,74,1990
+Home Alone 2,3,24,61,65,1992
+Ocean's Eleven,5,82,79,78,2001
+Ocean's Twelve,3,55,60,64,2004
+Ocean's Thirteen,4,70,75,69,2007
+Logan,4,93,91,83,2017
+King Kong,3,84,50,73,2005
+Saw,4,48,84,77,2004
+The Hunger Games,4,84,81,73,2012
+Toy Story,5,100,92,83,1995
+Toy Story 2,3,100,86,79,1999
+Toy Story 3,3,99,89,84,2010
+Finding Nemo,5,99,86,82,2003
+Finding Dory,4,94,85,74,2016
+The Incredibles,5,97,75,80,2004
+Monsters Inc,5,96,90,81,2001
+Monsters University,3,78,82,74,2013
+Ratatouille ,5,96,87,80,2007
+Inside Out,4,98,90,85,2015
+A Bug's Life,4,92,72,72,1998
+Up,4,98,90,83,2009
+Zootopia,4,98,92,81,2016
+Frozen,3,89,86,76,2013
+Spirited Away,5,97,96,86,2001
+The Emperor's New Groove,4,85,83,73,2000
+Mulan,4,86,84,75,1998
+Aladdin,4,94,92,80,1992
+Jaws,4,97,90,81,1975
+Jaws 2,2,53,38,57,1978
+The Matrix,5,87,85,87,1999
+The Matrix Reloaded,,,,7.2,2003
+The Matrix Revolutions,,,,6.8,2003
+Ghostbusters,4,97,88,78,1984
+Night at the Museum,3,44,67,64,2006
+The Godfather,5,99,99,92,1972
+Mission: Impossible,4,62,71,71,1996
+Mission: Impossible II,2,57,43,61,2000
+Mission: Impossible III,3,70,69,69,2006
+Mission: Impossible - Ghost Protocol,3,93,76,74,2011
+Dawn of the Planet of the Apes,4,90,88,77,2014
+The Hangover,5,79,84,78,2009
+The Hangover Pt II,3,34,52,65,2011
+The Hangover Pt III,3,19,45,59,2013
+Meet the Parents,4,84,79,70,2000
+Die Hard,4,92,94,83,1988
+Die Hard 2: Die Harder,3,69,70,71,1990
+Die Hard with a Vengeance,3,51,83,76,1995
+Live Free or Die Hard,2,82,86,72,2007
+The LEGO Movie,4,96,87,78,2014
+The Conjuring,4,86,82,75,2013
+National Treasure,4,44,76,69,2004
+National Treasure: Book of Secrets,3,35,67,65,2007
+The DaVinci Code,4,25,57,65,2006
+Angels and Demons,3,37,57,67,2009
+Taken,3,58,85,79,2008
+21 Jump Street,3,85,82,72,2012
+22 Jump Street,3,85,77,71,2014
+Pitch Perfect,3,81,83,72,2012
+Dumb and Dumber,3,10,23,34,2003
+Mad Max: Fury Road,5,97,87,83,2015
+The Omen,2,86,80,76,1976
+The Bad News Bears,3,96,80,73,1976
+Okja,2,85,85,76,2017
+Beauty and the Beast (Live Action),2,71,83,76,2017
+Pulp Fiction,5,93,96,89,1994
+Django Unchained,4,88,91,85,2012
+Inglourious Basterds,4,89,87,83,2009
+The Hateful Eight,3,75,77,79,2015
+Kill Bill: Volume 1,4,85,80,81,2003
+Kill Bill: Volume 2,4,84,89,80,2004
+The Imitation Game,4,90,92,81,2014
+Doctor Strange,3,90,86,76,2016
+ET,4,98,71,79,1982
+It Follows,4,96,65,69,2014
+Charlie and the Chocolate Factory,1,83,51,67,2005
+Willie Wonka and the Chocolate Factory,3,89,86,78,1971
+Forrest Gump,4,72,95,88,1994
+Lion,3,86,92,81,2016
+Armageddon,3,39,73,66,1998
+The Prestige,4,76,92,85,2006
+Dunkirk,5,92,82,83,2017
+Inception,4,86,91,88,2010
+Interstellar,4,71,85,87,2014
+Memento,3,92,94,85,2000
+The Sixth Sense,4,85,89,82,1999
+Split,4,75,79,73,2016
+Signs,4,74,67,67,2002
+The Visit,3,63,56,64,2015
+Cloud Atlas,4,66,66,75,2012
+Zodiac,4,89,77,77,2007
+Boyhood,4,98,81,80,2014
+Moonrise Kingdom,5,94,86,78,2012
+The Grand Budapest Hotel,5,92,86,81,2014
+Fantastic Mr. Fox,4,92,84,78,2009
+Tropic Thunder,4,83,70,70,2008
+"I Love You, Man",4,84,74,71,2009
+Kubo and the Two Strings,4,97,87,79,2016
+Gone Girl,4,88,87,82,2014
+The Founder,4,84,81,72,2016
+Sausage Party,5,83,51,63,2016
+The Interview,3,51,49,67,2014
+This is the End,4,83,71,67,2013
+Superbad,5,88,87,76,2007
+Pineapple Express,4,68,73,70,2008
+The 40-Year Old Virgin,5,85,84,72,2005
+Step Brothers,4,55,69,69,2008
+Anchorman,4,66,86,73,2004
+The Invasion,3,19,40,59,2007
+Ex Machina,5,92,85,77,2015
+Sahara,3,39,54,60,2005
+The Martian,4,93,92,81,2015
+Fast Times at Ridgemont High,4,78,80,72,1982
+Dazed and Confused,4,94,90,77,1993
+Ferris Bueller's Day Off,5,80,92,79,1986
+The Breakfast Club,3,89,92,79,1985
+Dallas Buyers Club,4,94,91,80,2013
+No Country for Old Men,5,93,86,81,2007
+Requiem for a Dream,4,78,98,84,2000
+The Babadook,3,98,73,69,2014
+Titanic,3,88,69,77,1997
+Saving Private Ryan,5,92,95,86,1998
+Catch Me If You Can,3,96,89,80,2002
+Argo,3,96,90,78,2012
+Pearl Harbor,3,25,67,60,2001
+The Goonies,4,69,91,78,1985
+Nightcrawler,4,95,85,79,2014
+Creep,4,95,66,62,2014
+Billy Madison,4,46,79,64,1995
+Happy Gilmore,4,60,85,70,1996
+The Waterboy,3,35,71,61,1998
+District 9,3,90,82,80,2009
+Independence Day,3,60,75,69,1996
+Wedding Crashers,4,75,70,70,2005
+Dodgeball,3,70,76,67,2004
+Law Abiding Citizen,2,25,75,75,2009
+Southpaw,2,61,76,75,2015
+Slumdog Millionaire,4,92,90,80,2008
+Cast Away,4,90,83,77,2000
+8 Mile,3,76,54,79,2002
+Snowpiercer,4,95,72,70,2013
+Crimson Peak,4,69,58,67,2015
+I Am Legend,3,70,68,72,2007
+Coach Carter,2,65,85,72,2005
+Remember the Titans,4,73,98,78,2000
+Big Fat Liar,3,42,44,54,2002
+The Great Escape,4,93,95,82,1963
+The Departed,5,91,94,85,2006
+Blade Runner,5,89,91,82,1982
+Blade Runner 2049,5,87,81,85,2017
+Face/Off,3,92,83,73,1997
+Se7en,4,80,95,86,1995
+Shawshank Redemption,5,91,98,87,1994
+Apollo 13,4,95,86,76,1995
+Miracle,4,80,90,75,2004
+The Benchwarmers,2,11,64,56,2006
+Human Centipede,1,49,25,45,2009
+School of Rock,4,92,64,71,2003
+Death Race,3,43,61,64,2008
+Talladega Nights,3,72,73,65,2006
+Sicario,4,93,86,78,2015
+Room,4,93,94,83,2015
+The Room,3,35,47,35,2003
+Mother!,4,68,49,71,2017
+Arrival,4,93,82,80,2016
+Unstoppable,3,86,73,68,2010
+Deepwater Horizon,2,84,72,72,2016
+Shooter,4,48,80,72,2007
+The Fugitive,4,96,89,78,1993
+Fantastic Beasts and Where to Find Them,4,73,80,74,2016
+Under the Skin,4,85,54,63,2013
+Holes,4,77,76,71,2003
+"Honey, I Shrunk the Kids",3,75,53,62,1989
+Zero Dark Thirty,4,93,80,74,2012
+The Rock,3,66,86,74,1996
+42,3,79,86,75,2013
+Animal House,5,91,89,76,1978
+2001: A Space Odyssey,5,96,89,83,1968
+A Clockwork Orange,4,90,100,84,1971
+The Shining,5,91,98,84,1980
+The Princess Bride,4,97,95,82,1987
+Scarface,4,83,94,83,1983
+The Sandlot,4,57,89,78,1993
+The Parent Trap,3,86,69,64,1998
+Sully,3,85,85,75,2016
+Suicide Squad,2,25,62,62,2016
+Zoolander,4,64,81,66,2001
+Good Will Hunting,5,97,94,83,1997
+The Revenant,4,82,85,81,2015
+The Wolf of Wall Street,5,77,82,82,2013
+The Great Gatsby,3,48,67,73,2013
+Don't Breathe,4,87,79,72,2016
+Passengers,4,31,63,70,2016
+Deadpool,2,84,90,80,2016
+Life of Pi,4,87,84,80,2012
+The Simpsons Movie,4,89,77,74,2007
+300,4,60,89,78,2006
+Edge of Tomorrow,4,90,90,79,2014
+Shark Tale,2,35,49,60,2004
+Speed,4,93,76,72,1994
+Knock Knock,3,32,21,49,2015
+Con Air,3,55,75,68,1997
+Air Force One,4,79,66,64,1997
+Oblivion,3,54,61,70,2013
+Jumanji,4,48,62,68,1995
+Get Smart,3,51,67,65,2008
+Space Jam,3,35,63,63,1996
+The Social Network,3,96,86,78,2010
+Elf,4,84,78,69,2003
+Polar Express,4,55,63,66,2004
+Patriot Games,4,75,72,69,1992
+London Has Fallen,1,25,52,59,2016
+Manchester By the Sea,4,96,78,79,2016
+Brooklyn,2,97,89,76,2015
+Her,4,94,82,80,2013
+Gravity,3,97,80,79,2013
+Captain Phillips,4,93,89,79,2013
+Moneyball,4,94,86,76,2011
+The Blind Side,3,66,85,77,2009
+Mystic River,4,87,89,80,2003
+My Cousin Vinny,4,85,87,75,1992
+Apocalypto ,4,65,79,78,2006
+One Flew Over the Cuckoo's Nest,4,95,96,87,1975
+Valkyrie ,4,62,65,71,2008
+Fight Club,5,80,96,89,1999
+Star Wars: The Last Jedi,3,91,50,81,2017
+Minority Report,4,90,80,77,2002
+The Killing of a Sacred Deer,4,79,65,77,2017
+Predestination,4,84,74,74,2014
+Mr. Nobody,4,64,76,79,2009
+Call Me by Your Name,4,96,87,83,2017
+Murder on the Orient Express,3,57,57,67,2017
+It,4,85,85,76,2017
+The Disaster Artist,5,91,89,79,2017
+The Shape of Water,3,92,77,78,2017
+Fargo,5,93,92,81,1996
+Annihilation,5,87,68,71,2018
+"Three Billboards Outside Ebbing, Missouri",4,92,87,82,2017
+Close Encounters of the Third Kind,3,95,85,77,1977
+Black Panther,4,97,75,77,2018
+Spiderman: Homecoming,4,92,88,75,2017
+Coco,5,97,94,85,2017
+Breakfast at Tiffany's,4,88,91,77,1961
+A Quiet Place,4,95,84,77,2018
+Avengers: Infinity War,5,83,91,87,2018
+Ready Player One,3,73,79,78,2018
+Hellboy,2,81,65,69,2004
+Baby Driver,5,97,91,85,2017
+Mulholland Drive,4,83,88,80,2001
+Ghost in the Shell,2,44,51,64,2017
+The Truman Show,5,94,88,81,1998
+Solo: A Star Wars Story,4,71,64,71,2018
+The Fifth Element,3,72,87,77,1997
+Hereditary,4,89,60,75,2018
+Life,3,68,54,66,2017
+Terminator,3,100,89,80,1984
+The Virgin Suicides,3,76,81,72,2000
+Glass,3,37,68,67,2019
+Spiderman: Into the Spiderverse ,4,97,93,84,2018
+Avengers: Endgame,5,94,90,85,2019
+Burn After Reading,5,78,64,70,2008
+Upgrade,4,87,87,75,2018
+El Camino,4,91,81,74,2019
+Midsommar,4,83,63,72,2019
+The Lighthouse,4,91,72,78,2019
+Parasite,5,99,93,86,2019
+Joker,4,69,88,86,2019
+Ad Astra,4,84,40,67,2019
+Point Break,3,69,79,73,1991
+Shutter Island,4,,,8.1,2010
+Knives Out,4,,,8,2019
+Pan's Labyrinth,2,,,8.2,2006
+Ford v Ferrari,3,,,8.1,2019
+Behind Enemy Lines,2,,,6.4,2001
+The Internship,2,,,7.1,2015
+Once Upon a Time in Hollywood,4,,,7.7,2019
+Jojo Rabbit,5,,,8,2019
+There Will Be Blood,4,,,,2007
