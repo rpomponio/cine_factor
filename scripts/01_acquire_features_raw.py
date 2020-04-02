@@ -9,6 +9,10 @@ df_ratings = pd.read_csv('../data/Personal_Movie_Ratings_Updated.csv')
 # drop movies missing ratings
 df_ratings = df_ratings.loc[~df_ratings['My Rating'].isnull(), :].reset_index(drop=True)
 
+# load UIDs for movies that do not match search results
+df_uid = pd.read_csv('../data/Personal_Movies_Missing_UID_Updated.csv', dtype={'UID':str})
+df_ratings = df_ratings.merge(df_uid, how='left', validate='1:1')
+
 # create an instance of the IMDb class
 ia = IMDb()
 
@@ -25,24 +29,29 @@ movies_missing_uid = {'Movie': []}
 
 # iterate over movies
 for i in range(0, df_ratings.shape[0]):
+    print(i)
     my_movie_title = df_ratings.Movie[i]
     my_movie_year = df_ratings['Release Year'][i]
     my_movie_imdb = df_ratings['IMDb'][i] / 10
     my_movie_rating = df_ratings['My Rating'][i]
-    # search by title first
-    title_search = ia.search_movie(my_movie_title)
-    # is the first item in search the correct movie?
-    movie_guess = ia.get_movie(title_search[0].movieID)
-    # does the first item in the search match the release year?
-    if movie_guess['year']!=my_movie_year:
-        print('Skipping movie due to mismatch in year: %s' % my_movie_title)
-        movies_missing_uid['Movie'].append(my_movie_title)
-        continue
-    # does the first item in the search match the rating?
-    if (np.abs(movie_guess['rating'] - my_movie_imdb) > 0.5):
-        print('Skipping movie due to mismatch in rating: %s' % my_movie_title)
-        movies_missing_uid['Movie'].append(my_movie_title)
-        continue
+    my_movie_uid = df_ratings['UID'][i]
+    if np.isnan(float(my_movie_uid)):
+        # search by title first
+        title_search = ia.search_movie(my_movie_title)
+        # is the first item in search the correct movie?
+        movie_guess = ia.get_movie(title_search[0].movieID)
+        # does the first item in the search match the release year?
+        if movie_guess['year']!=my_movie_year:
+            print('Skipping movie due to mismatch in year: %s' % my_movie_title)
+            movies_missing_uid['Movie'].append(my_movie_title)
+            continue
+        # does the first item in the search match the rating?
+        if (np.abs(movie_guess['rating'] - my_movie_imdb) > 0.5):
+            print('Skipping movie due to mismatch in rating: %s' % my_movie_title)
+            movies_missing_uid['Movie'].append(my_movie_title)
+            continue
+    else:
+        movie_guess = ia.get_movie(my_movie_uid)
     # for the movie object, try to obtain all features
     results['UID'].append(movie_guess.movieID)
     results['My_Rating'].append(my_movie_rating)
